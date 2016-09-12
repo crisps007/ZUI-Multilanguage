@@ -589,5 +589,5 @@ hohes Erkrankungsrisiko, es wird empfohlen, die eingestellten Trainingsmaßnahme
     <string name="uv_description_level4_title">6-10：</string>
     <string name="weight_detail_item_name_body_bmi">BMI</string>
     <string name="have_save_to_album">Im Album gespeichert.</string>
-    <string name="manually_add">hinzugefüg</string>
+    <string name="manually_add">hinzugefügt</string>
 </resources>
