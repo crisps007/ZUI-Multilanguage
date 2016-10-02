@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Zuhause</item>
-        <item>Arbeit</item>
+        <item>Privat</item>
+        <item>Geschäftlich</item>
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
-        <item>Yahoo</item>
+        <item>Yahoo!</item>
         <item>Skype</item>
         <item>QQ</item>
         <item>Google Talk</item>
@@ -17,32 +17,32 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Arbeit</item>
+        <item>Geschäftlich</item>
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Zuhause</item>
+        <item>Privat</item>
         <item>Mobil</item>
-        <item>Arbeit</item>
-        <item>Fax Arbeit</item>
-        <item>Fax Zuhause</item>
+        <item>Geschäftlich</item>
+        <item>Fax (geschäftl.)</item>
+        <item>Fax (privat)</item>
         <item>Pager</item>
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Zuhause</item>
-        <item>Arbeit</item>
+        <item>Privat</item>
+        <item>Geschäftlich</item>
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="fingerprint_error_vendor">
-        <item>Bildschirm entsperren benötigt eine Fingerabdruck Authentifizierung</item>
+        <item>Bildschirm entsperren benötigt einen Fingerabdruck Erkennung</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Zuhause</item>
-        <item>Arbeit</item>
+        <item>Privat</item>
+        <item>Geschäftlich</item>
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
     </string-array>
@@ -53,14 +53,14 @@
         <item>" versucht die Vibration zu benutzen"</item>
         <item>" versucht die Kontakte zu lesen"</item>
         <item>" versucht die Kontakte zu schreiben"</item>
-        <item>" versucht die Anrufprotokoll zu lesen"</item>
-        <item>" versucht die Anrufprotokoll zu schreiben"</item>
+        <item>" versucht die Anrufliste zu lesen"</item>
+        <item>" versucht die Anrufliste zu ändern"</item>
         <item>" versucht den Kalender zu lesen"</item>
         <item>" versucht den Kalender zu ändern"</item>
         <item>" versucht zu lokalisieren"</item>
         <item>" versucht eine Benachrichtigung zu hinterlassen"</item>
         <item>" veruscht zu lokalisieren"</item>
-        <item>" versucht einen Anruf zu tätigen"</item>
+        <item>" versucht zu telefonieren"</item>
         <item>" versucht SMS zu lesen"</item>
         <item>" versucht eine SMS zu schreiben"</item>
         <item>" versucht eine SMS zu erhalten"</item>
@@ -71,29 +71,29 @@
         <item>" versucht eine ICC SMS zu lesen"</item>
         <item>" versucht eine ICC SMS zu schreiben"</item>
         <item>" versucht die Einstellung zu ändern"</item>
-        <item>" veruscht oben zu zeichnen"</item>
+        <item>" veruscht an oberste Positon zu ziehen"</item>
         <item>" versucht auf Benachrichtigungen zuzugreifen"</item>
         <item>" versucht auf die Kamera zuzugreifen"</item>
         <item>" versucht eine Tonaufnahme"</item>
         <item>" versucht einen Ton abzuspielen"</item>
         <item>" versucht aus der Zwischenablage zu lesen"</item>
         <item>" versucht die Zwischenablage zu ändern"</item>
-        <item>" versucht die Media Buttons zu benützen"</item>
+        <item>" versucht die Medienschaltflächen zu benützen"</item>
         <item>" versucht den Audio Fokus zu verwenden"</item>
-        <item>" versucht die Hauptlautstärke zu benutzen"</item>
+        <item>" versucht die Gesamtlautstärke zu benutzen"</item>
         <item>" versucht die Sprachlautstärke zu benutzen"</item>
         <item>" versucht die Klingeltonlautstärke zu benutzen"</item>
-        <item>" versucht die Medialautstärke zu benutzen"</item>
+        <item>" versucht die Medienlautstärkee zu benutzen"</item>
         <item>" versucht die Weckerlautstärke zu benutzen"</item>
         <item>" versucht die Benachrichtigungslautstärke zu benutzen"</item>
         <item>" versucht die Bluetoothlautstärke zu benutzen"</item>
-        <item>" versucht das Telefon wach zu halten"</item>
+        <item>" versucht das Telefon aktiv zu lassen"</item>
         <item>" veruscht zu lokalisieren"</item>
         <item>" veruscht zu lokalisieren"</item>
         <item>" versucht die Verbrauchsstatistik zu erhalten"</item>
         <item>" versucht das Mikrofon stumm zuschalten"</item>
         <item>" is trying to toast window"</item>
-        <item>" versucht Media zu projizieren"</item>
+        <item>" versucht Medien zu projizieren"</item>
         <item>" versucht VPN zu aktivieren"</item>
         <item>" versucht WiFi an/aus zu schalten"</item>
         <item>" versucht Bluetooth an/aus zu schalten"</item>
@@ -105,9 +105,9 @@
         <item>" versucht SMS zu löschen"</item>
         <item>" versucht MMS zu löschen"</item>
         <item>" versucht Kontakte zu löschen"</item>
-        <item>" versucht Anrufprotokolle zu löschen"</item>
+        <item>" versucht Anrufliste zu löschen"</item>
         <item>" versucht Mobile Datenverbindung einzuschalten"</item>
-        <item>" versucht Geräteinformationen zu erhalten"</item>
+        <item>" versucht Gerätinformationen zu erhalten"</item>
         <item>" versucht eine Verknüpfung auf dem Desktop zu erstellen"</item>
         <item>" versucht auf die Gallerie zuzugreifen"</item>
         <item>" versucht die Telefonnummer zu lesen"</item>
@@ -117,7 +117,7 @@
         <item>" versucht die Telefonstatistik zu lesen"</item>
         <item>" versucht eine Sprachnachricht hinzu zufügen"</item>
         <item>" versucht ein SIP zu benützen"</item>
-        <item>" versucht einen ausgehenden Anruf zu tätigen"</item>
+        <item>" versucht zu telefonieren"</item>
         <item>" veruscht einen Fingeradruck zu verwenden"</item>
         <item>" versucht einen Sensor zu benützen"</item>
         <item>" versucht den Mobilfunkdienst zu lesen"</item>
@@ -134,41 +134,41 @@
         <item>Vibration</item>
         <item>Zugrff Kontakte</item>
         <item>Zugriff Kontakte</item>
-        <item>Zugriff Anrufprotokoll</item>
-        <item>Zugriff Anrufprotokoll</item>
+        <item>Zugriff Anrufliste</item>
+        <item>Zugriff Anrufliste</item>
         <item>Zugriff Kalender</item>
         <item>Zugriff Kalender</item>
         <item>Standort Bestimmtung</item>
         <item>Benachrichtigungen</item>
         <item>Standort Bestimmung</item>
-        <item>Anrufe tätigen</item>
+        <item>Telefonieren</item>
         <item>Zugriff SMS</item>
         <item>Zugriff SMS</item>
-        <item>SMS Eingang</item>
-        <item>SMS Eingang</item>
-        <item>SMS Eingang</item>
-        <item>SMS Eingang</item>
+        <item>SMS Empfang</item>
+        <item>SMS Empfang</item>
+        <item>SMS Empfang</item>
+        <item>SMS Empfang</item>
         <item>SMS Senden</item>
         <item>Zugriff SMS</item>
         <item>Zugriff SMS</item>
-        <item>System Einstellung ändern</item>
-        <item>Anzeige schwebende Fenster</item>
+        <item>Systemeinstellung ändern</item>
+        <item>An oberste Position ziehen</item>
         <item>Zugriff Benachrichtigungen</item>
         <item>Zugriff Kamera</item>
         <item>Zugriff Sprachrekorder</item>
-        <item>Audio abspielen</item>
-        <item>Zwischenablage Lesezugriff</item>
-        <item>Zwischenablage Änderungszugriff</item>
-        <item>Media Buttons</item>
-        <item>Audio Fokus</item>
-        <item>Hauptlautstärke</item>
+        <item>Audio wiedergeben</item>
+        <item>Zwischenablage lesen</item>
+        <item>Zwischenablage ändern</item>
+        <item>Medienschaltflächen</item>
+        <item>Audiofokus</item>
+        <item>Gesamtlautstärke</item>
         <item>Sprachlautstärke</item>
         <item>Klingeltonlautstärke</item>
-        <item>Medialautstärke</item>
+        <item>Medienlautstärke</item>
         <item>Weckerlautstärke</item>
         <item>Benachrichtigungslautstärke</item>
         <item>Bluetoothlautstärke</item>
-        <item>Wach halten</item>
+        <item>Aktiv halten</item>
         <item>Standort Bestimmung</item>
         <item>Standort Bestimmung</item>
         <item>Verbrauchsstatistik</item>
@@ -198,7 +198,7 @@
         <item>Telefonstatistik</item>
         <item>Sprachnachrichten</item>
         <item>SIP Zugriff</item>
-        <item>Anrufe tätigen</item>
+        <item>Telefonieren</item>
         <item>Fingerabdruck</item>
         <item>Senoren</item>
         <item>Mobilfunkdienst</item>
@@ -206,7 +206,7 @@
         <item>Lesezugriff Externer Speicher</item>
         <item>Schreibzugriff Externen Speicher</item>
         <item>Bildschirm</item>
-        <item>Kontodetails Zugriff</item>
+        <item>Kontodaten Zugriff</item>
     </string-array>
     <string-array name="datePickerXWeek">
         <item>So</item>
