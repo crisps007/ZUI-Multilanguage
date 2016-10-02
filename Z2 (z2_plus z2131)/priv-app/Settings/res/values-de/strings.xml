@@ -2638,7 +2638,7 @@ Jeder Nutzer kann Apps für alle anderen Nutzer aktualisieren."</string>
     <string name="restr_pin_enter_admin_pin">Enter administrator PIN</string>
     <string name="switch_on_text">An</string>
     <string name="switch_off_text">Aus</string>
-    <string name="screen_pinning_title">Bildschirmfixierungstring>
+    <string name="screen_pinning_title">Bildschirmfixierung</string>
     <string name="screen_pinning_description">"Wenn diese Einstellung aktiviert ist, kannst du die Ansicht des aktuellen Bildschirms fixieren.
 
 So nutzt du die Bildschirmfixierung:
