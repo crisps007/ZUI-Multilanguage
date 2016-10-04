@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="color_mode_labels">
-        <item>Schwarz &amp; Weiss</item>
+        <item>Schwarz-weiß</item>
         <item>Farbe</item>
     </string-array>
     <string-array name="duplex_mode_labels">
-        <item>Kein</item>
+        <item>Ohne</item>
         <item>Lange Seite</item>
         <item>Kurze Seite</item>
     </string-array>
