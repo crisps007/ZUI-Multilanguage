@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXWeek">
+        <item>So</item>
+        <item>Mo</item>
+        <item>Di</item>
+        <item>Mi</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organisation</item>
+        <item>Notiz</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Vorgabe</item>
+        <item>Piano</item>
+    </string-array>
+</resources>
