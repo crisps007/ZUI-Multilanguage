@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Kalender Speicher</string>
+    <string name="calendar_default_name">Default</string>
+    <string name="calendar_info">Kalender Info</string>
+    <string name="calendar_info_error">Fehler</string>
+    <string name="calendar_info_no_calendars">Kein Kalender</string>
+    <string name="calendar_info_events">Events: %1$d</string>
+    <string name="calendar_info_events_dirty">Events: %1$d, Ungespeichert: %2$d</string>
+    <string name="provider_label">Kalender</string>
+    <string name="debug_tool_delete_button">Jetzt löschen</string>
+    <string name="debug_tool_start_button">Start</string>
+    <string name="debug_tool_message">Kopiere Kalenderdatenbank auf SD/USB Speicher; dieser kann von jeder App gelesen werden. Denken Sie daran sie zu löschen, sobald Sie fertig sind.</string>
+    <string name="debug_tool_email_sender_picker">Standard App auswählen</string>
+    <string name="debug_tool_email_subject">Kalenderdatenbank verbunden</string>
+    <string name="debug_tool_email_body">Kalenderdatenbank inklusive aller Termine und persönlicher Daten verbunden. Bitte Vorsicht walten lassen.</string>
+    <item type="string" name="APKTOOL_DUMMY_e">false</item>
+</resources>
