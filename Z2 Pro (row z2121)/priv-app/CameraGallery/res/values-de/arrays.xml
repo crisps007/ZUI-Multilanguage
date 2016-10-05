@@ -2,7 +2,6 @@
 <resources>
 
     <string-array name="pref_camera_picturesize_entryvalues">
-        <item>@string/pref_camera_picturesize_default</item>
         <item>mittel</item>
         <item>klein</item>
     </string-array>
