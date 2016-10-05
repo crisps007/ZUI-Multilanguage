@@ -28,7 +28,7 @@
   <string name="description_delete_button">Löschen</string>
   <string name="description_image_button_plus">Plus</string>
   <string name="description_voicemail_button">Mailbox</string>
-  <string name="default_notification_description">"Standardklingelton (<xliff:g id="DEFAULT_SOUND_TITLE" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%1$s</xliff:g>)"</string>
+  <string name="default_notification_description">Standardklingelton (%1$s)</string>
   <string name="callFailed_userBusy">Leitung besetzt</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_timedOut">Keine Antwort, Zeitüberschreitung</string>
