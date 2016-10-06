@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_label">Medienspeicher</string>
+	<string name="location_warning_title">Standort zustimmen</string>
+	<string name="location_warning_message">Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running.</string>
+	<string name="agree">Zustimmen</string>
+	<string name="disagree">Nicht zustimmen</string>
+	<string name="location_warning_do_not_show_again">Nicht wieder anzeigen</string>
+	<string name="wifi_scan_always">WiFi Scan immer erlauben</string>
+	<string name="wifi_scan_tips">Erlaube Standortservices WiFi Scan, selbst wenn WiFi ausgeschaltet ist.</string>
+	<string name="persmission_notification_title">Netzwerkstandort erfordert Berechtigungen</string>
+	<string name="persmission_notification_text">Zum Erlauben tippen</string>
+	<string name="persmission_message">Für eine ordnungsgemäße Funktion des Dienstes sind zusätzliche Berechtigungen  erforderlich. Bitte geben Sie die Berechtigungen bei der Nachfrage.</string>
+	<string name="persmission_message2">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Speicher erforderlich. Bitte akzeptieren Sie den Zugriff bei der Nachfrage.</string>
+	<string name="persmission_message3">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Standort erforderlich. Bitte akzeptieren Sie den Zugriff bei der Nachfrage.</string>
+	<string name="persmission_message4">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihr Telefon erforderlich. Bitte akzeptieren Sie den Zugriff bei der Nachfrage.</string>
+	<string name="persmission_message5">Für eine ordnungsgemäße Funktion des Dienstes sind zusätzliche Berechtigungen  erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+	<string name="persmission_message6">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Standort erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+	<string name="persmission_message7">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihr Telefon erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+	<string name="persmission_message8">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Speicher erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+	<string name="persmission_ok">OK</string>
+	<string name="persmission_close">SCHLIESSEN</string>
+	<string name="persmission_settings">EINSTELLUNGEN</string>
+</resources>
