@@ -586,18 +586,18 @@
 	<string name="MSG_SAVE_OUTPUT_IMAGE">Speichere Panorama...</string>
 	<string name="MSG_CANCEL_CAPTURE">Abbrechen...</string>
 	<string name="MSG_MOVE_CAMERA_SLOWLY">Bewegen sie Kamera während der Aufnahme sehr langsam.</string>
-	<string name="MSG_MISALIGNMENT">Aufnahme abgebrochen! 
-(Vorgegebener Bereich überschritten.)</string>
-	<string name="MSG_TOOFAST">Aufnahme abgebrochen! 
-(Kamera zu schnell bewegt.)</string>
-	<string name="MSG_SENSOR_CORRECTION_EVERY_TIME">Bitte halten sie die Kamera für 2 Sekunden lang ruhig,
-nachdem Sie den Startknopf betätigt haben.</string>
-	<string name="MSG_SENSOR_CORRECTION_BEFOREHAND">Bitte halten sie die Kamera für 2 Sekunden lang ruhig,
-nachdem Sie den Auslöser betätigt haben.</string>
-	<string name="ERROR_MSG_CERTIFICATE_INVALID_SIGNATURE">Die Signatur der Anwendung ist ungültig.
-Bitte kontaktieren Sie Morpho.</string>
-	<string name="ERROR_MSG_CERTIFICATE_EVALUATION_PERIOD">Ihr Probezeitraum ist abgelaufen.
-Bitte kontaktieren Sie Morpho.</string>
+	<string name="MSG_MISALIGNMENT">"Aufnahme abgebrochen! 
+(Vorgegebener Bereich überschritten.)"</string>
+	<string name="MSG_TOOFAST">"Aufnahme abgebrochen! 
+(Kamera zu schnell bewegt.)"</string>
+	<string name="MSG_SENSOR_CORRECTION_EVERY_TIME">"Bitte halten sie die Kamera für 2 Sekunden lang ruhig,
+nachdem Sie den Startknopf betätigt haben."</string>
+	<string name="MSG_SENSOR_CORRECTION_BEFOREHAND">"Bitte halten sie die Kamera für 2 Sekunden lang ruhig,
+nachdem Sie den Auslöser betätigt haben."</string>
+	<string name="ERROR_MSG_CERTIFICATE_INVALID_SIGNATURE">"Die Signatur der Anwendung ist ungültig.
+Bitte kontaktieren Sie Morpho."</string>
+	<string name="ERROR_MSG_CERTIFICATE_EVALUATION_PERIOD">"Ihr Probezeitraum ist abgelaufen.
+Bitte kontaktieren Sie Morpho."</string>
 	<string name="pref_title_setting">Einstellung</string>
 	<string name="pref_title_save_input_images">Bilder speichern</string>
 	<string name="pref_title_use_sensor_alignment_when_failed">Sensor verwenden</string>
