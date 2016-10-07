@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Als Vorgabe Stadt</item>
+        <item>Stadt löschen</item>
+    </string-array>
+    <string-array name="pref_slide_effect_values">
+        <item>KEINER</item>
+        <item>ROTIEREN</item>
+        <item>BULLDOZER</item>
+        <item>WINDMÜHLE</item>
+        <item>WÜRFEL</item>
+        <item>WELLE</item>
+        <item>CYLINDER</item>
+    </string-array>
+    <string-array name="pref_gesture_values">
+        <item>keine</item>
+        <item>Menü</item>
+        <item>Letzte App</item>
+        <item>Benachtichtigung</item>
+        <item>Positionierung</item>
+        <item>Sperrbildschrim</item>
+    </string-array>
+    <string-array name="pref_title_color_values">
+        <item>Thema</item>
+        <item>Schwarz</item>
+        <item>Weiß</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Vorgabe</item>
+        <item>Rotieren</item>
+        <item>Bulldozer</item>
+        <item>Windmühle</item>
+        <item>Würfel</item>
+        <item>Sinus Welle</item>
+        <item>Zylinder</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>None</item>
+        <item>Desktop Menü öffnen</item>
+        <item>Anwendungsübersicht</item>
+        <item>Benachrichtigungen öffnen</item>
+        <item>Icon suchen</item>
+        <item>Sperrbildschirm</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices">
+        <item>Keine</item>
+        <item>T9 Suche</item>
+        <item>Webanwendungen</item>
+        <item>Widgets</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices_values">
+        <item>Keine</item>
+        <item>T9 Suche</item>
+        <item>Webanwendungen</item>
+        <item>Widgets</item>
+    </string-array>
+</resources>
