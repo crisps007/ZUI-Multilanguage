@@ -3,6 +3,6 @@
     <string name="app_name">XuiSys</string>
     <string name="startService">Service starten</string>
     <string name="action_settings">Einstellungen</string>
-    <string name="switchSkinEnter">Einstellungen zum Wechlen des Skins öffnen</string>
+    <string name="switchSkinEnter">Einstellungen zum Wechseln des Skins öffnen</string>
     <string name="switchSkinDone">Skin gewechselt</string>
 </resources>
