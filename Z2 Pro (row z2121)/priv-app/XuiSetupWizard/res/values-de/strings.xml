@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setup-Assistent</string>
+    <string name="title_complete">Willkommen</string>
+    <string name="xui_show_tv">Ich akzeptiere die %1$s und die %2$s</string>
+    <string name="user_agreement">Nutzungsbedingungen</string>
+    <string name="privacy_policy">Datenschutz-Bestimmungen</string>
+    <string name="quick_settings">Schnelleinstellungen</string>
+    <string name="skip_setupwizard">Setup-Assistent überspringen</string>
+    <string name="skip_btn">Überspringen</string>
+    <string name="continue_btn">Weiter</string>
+    <string name="title_mobiledata">Mobile Daten</string>
+    <string name="title_fingerprinter">Fingerabdruck</string>
+    <string name="fingerprint_explain">Fingerabdruck anstelle eines Passworts zum Entsperren verwenden</string>
+    <string name="add_fingerprint">Fingerabdruck hinzufügen</string>
+    <string name="setupwizard_finish">ZUI benutzen</string>
+    <string name="start_to_use">Auf geht's</string>
+    <string name="fingerprint_already_added">Fingerabdruck bereits vorhanden</string>
+    <string name="next_step">Weiter</string>
+</resources>
