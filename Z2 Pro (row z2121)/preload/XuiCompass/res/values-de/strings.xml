@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Kamera</string>
+	<string name="app_name">Kompass</string>
 	<string name="calibrate">Kalibrierung</string>
 	<string name="latitude">Breitengrad:</string>
 	<string name="longitude">Längengrad:</string>
@@ -22,7 +22,7 @@
 	<string name="direction_east_south">SO</string>
 	<string name="direction_west_north">NW</string>
 	<string name="direction_west_south">SW</string>
-	<string name="Ok">Zutimmen</string>
+	<string name="Ok">Zustimmen</string>
 	<string name="Cancel">Schließen</string>
 	<string name="ConfirmAuthority">Berechtigungsabfrage</string>
 	<string name="NeedNetworkTitle">Zugriff auf mobiles Netzwerk, Standort</string>
