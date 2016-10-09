@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="clir_display_values">
+        <item>Netzwerkvoreinstellung</item>
+        <item>Nummer verbergen</item>
+        <item>Nummer anzeigen</item>
+       <string-array name="call_barring_outgoing_display_values">
+        <item>Off</item>
+        <item>Internationaler Roaming Anrufe</item>
+        <item>Internationale Anrufe</item>
+        <item>Ausgehende Anrufe</item>
+    </string-array>
+        <string-array name="call_barring_incoming_display_values">
+        <item>Aus</item>
+        <item>Roaming</item>
+        <item>Alle</item>
+    </string-array>
+       <string-array name="list_language_entries">
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Spanisch</item>
+        <item>Japanisch</item>
+        <item>Koreanisch</item>
+        <item>Chinesisch</item>
+        <item>Hebräisch</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Nur Heimnetz</item>
+        <item>Automatisch</item>
+    </string-array>
+	<string-array name="tty_mode_entries">
+		<item>TTY aus</item>
+		<item>TTY (vollständig)</item>
+		<item>TTY HCO</item>
+		<item>TTY VCO</item>
+	</string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Lang</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>Immer</item>
+        <item>Stumm</item>
+        <item>Nie</item>
+    </string-array>
+</resources>
