@@ -22,7 +22,7 @@
 	<string name="toast_new_download">Download-Aufgabe erstellen</string>
 	<string name="toast_resume_download">Download-Aufgabe fortsetzen</string>
 	<string name="toast_clear_download">Download-Aufgabe entfernen</string>
-	<string name="toast_install_fail">&gt;Installation fehlgeschlagen, das angegebene Verzeichnis %s existiert nicht.</string>
+	<string name="toast_install_fail">Installation fehlgeschlagen, das angegebene Verzeichnis %s existiert nicht.</string>
 	<string name="toast_exit">Drücken Sie zum Beenden erneut</string>
 	<string name="alert_outofstorage_title">Nicht genügend Speicher</string>
 	<string name="alert_outofstorage_content">Nicht genügend Speicher, bitte Speicherplatz freigeben und erneut versuchen</string>
@@ -118,7 +118,7 @@
 	<string name="ota_share_net_fail">Fehler beim Zugriff auf die Versionshinweise, überprüfen Sie bitte die Netzwerkverbindung und versuchen Sie es erneut</string>
 	<string name="ota_share_local_fail">Fehler beim Teilen der Versionshinweise, bitte versuchen Sie es erneut</string>
 	<string name="ota_share_delete_fail">Fehler beim Löschen der Versionshinweise，bitte versuchen Sie es erneut</string>
-	<string name="ota_rooted">System wurde manipuliert, OTA-Update ist nicht verfügbar.</string>
+	<string name="ota_rooted">System ist gerootet, OTA-Update ist nicht verfügbar.</string>
 	<string name="ota_pass_tips">Android 6.0 bringt Änderungen bei der Fingerabdruck-Erkennung, gespeicherte Fingerabdrücke werden während der Aktualisierung entfernt. Fügen Sie Fingerabdrücke nach dem Update wieder hinzu.</string>
 	<string name="ota_pass_title_tips">Wichtig</string>
 	<string name="ota_pass_btn_tips">Überprüfen</string>
@@ -126,7 +126,7 @@
 	<string name="ota_remain_time_m">m</string>
 	<string name="ota_remain_time_h">h</string>
 	<string name="utouch_update_title">U-Touch aktualisiert</string>
-	<string name="utouch_update_msg">Einfacher： Langer Druck auf Home-Bildschirm! Sie es in "Einstellungen—U-Touch" abschalten.</string>
+	<string name="utouch_update_msg">Für 0,5s berühren um auf den Home-Bildschirm zu gelangen! Sie können in den Einstellungen &quot;U-Touch&quot; abschalten.</string>
 	<string name="utouch_update_confirm">Ist mir bekannt</string>
 	<string name="ota_click_refresh">Aktualisieren</string>
 	<string name="st_version"> Stabil </string>
