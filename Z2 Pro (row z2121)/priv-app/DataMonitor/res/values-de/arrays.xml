@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_month_sheet_date">
+        <item>1 Tag</item>
+        <item>2 Tag</item>
+        <item>3 Tag</item>
+        <item>4 Tag</item>
+        <item>5 Tag</item>
+        <item>6 Tag</item>
+        <item>7 Tag</item>
+        <item>8 Tag</item>
+        <item>9 Tag</item>
+        <item>10 Tag</item>
+        <item>11 Tag</item>
+        <item>12 Tag</item>
+        <item>13 Tag</item>
+        <item>14 Tag</item>
+        <item>15 Tag</item>
+        <item>16 Tag</item>
+        <item>17 Tag</item>
+        <item>18 Tag</item>
+        <item>19 Tag</item>
+        <item>20 Tag</item>
+        <item>21 Tag</item>
+        <item>22 Tag</item>
+        <item>23 Tag</item>
+        <item>24 Tag</item>
+        <item>25 Tag</item>
+        <item>26 Tag</item>
+        <item>27 Tag</item>
+        <item>28 Tag</item>
+        <item>29 Tag</item>
+        <item>30 Tag</item>
+        <item>31 Tag</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Täglich</item>
+        <item>Alle 3 Tage</item>
+        <item>Wöchentlich</item>
+        <item>Schließen</item>
+    </string-array>
+    <string-array name="datetime_unit_name">
+        <item>Tag(e)</item>
+        <item>Stund(e)</item>
+        <item>Minute(n)</item>
+        <item>Sekunde(n)</item>
+    </string-array>
+    <string-array name="traffic_notice_month_percents">
+        <item>80%</item>
+        <item>90%</item>
+        <item>95%</item>
+        <item>Ausschalten</item>
+    </string-array>
+    <string-array name="correct_result">
+        <item>Kalibrierung abgeschlossen</item>
+        <item>Ungültiger Platz</item>
+        <item>Rückruf abfrage wurde nicht eingerichtet</item>
+        <item>Die letzte Abfrage dieser SIM wurde nicht abgeschlossen</item>
+        <item>Provinz wurde noch nicht benannt</item>
+        <item>Betreiber Information wurde nicht eingerichtet</item>
+        <item>Zugangscode wurde nicht eingerichtet</item>
+        <item>Zugangscode wurde geändert</item>
+        <item>Zugangscode ungültig</item>
+        <item>Netzwerkfehler</item>
+        <item>Serverfehler</item>
+        <item>SMS empfangen fehlgeschlagen</item>
+        <item>SMS senden fehlgeschlagen</item>
+        <item>Betreiber besetzt</item>
+        <item>SIM Karte nicht bereit</item>
+        <item>Unbekannter Fehler</item>
+        <item>Betreiber nicht erkannt</item>
+    </string-array>
+    <string-array name="sim_name">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="operator_name">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item></item>
+    </string-array>
+    <string-array name="traffic_auto_correct_time">
+        <item>1 Tag</item>
+        <item>3 Tage</item>
+        <item>7 Tage</item>
+        <item>Automatische Kalibierung ausschalten</item>
+    </string-array>
+    <string-array name="traffic_provinces">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Tianjing</item>
+        <item>Chongqing</item>
+        <item>Hebei</item>
+        <item>Henan</item>
+        <item>Shanxi</item>
+        <item>Shandong</item>
+        <item>Inner Mongoria</item>
+        <item>Liaoning</item>
+        <item>Jilin</item>
+        <item>Heilongjiang</item>
+        <item>Jiangsu</item>
+        <item>Zhejiang</item>
+        <item>Anhui</item>
+        <item>Fujian</item>
+        <item>Jiangxi</item>
+        <item>Hubei</item>
+        <item>Hunan</item>
+        <item>Guangdong</item>
+        <item>Guangxi</item>
+        <item>Hainan</item>
+        <item>Sichuan</item>
+        <item>Guizhou</item>
+        <item>Tibet</item>
+        <item>Yunnan</item>
+        <item>Shanxi</item>
+        <item>Gansu</item>
+        <item>Qinghai</item>
+        <item>Ningxia</item>
+        <item>Xinjiang</item>
+    </string-array>
+    <string-array name="month_remaining1_bt">
+        <item>Ok</item>
+        <item>Paketdatenverwaltung eingeben</item>
+    </string-array>
+    <string-array name="month_remaining2_bt">
+        <item>Mit Netzwerk verbinden</item>
+        <item>Abbrechen</item>
+    </string-array>
+    <string-array name="month_remaining3_bt">
+        <item>Mit Netzwerk verbinden</item>
+        <item>Abbrechen</item>
+	</string-array>
+</resources>
