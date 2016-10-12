@@ -348,7 +348,7 @@ Hinweis: Betreiberdaten können sich verzögern."</string>
     <string name="oc_success_summary">Übertaktet auf 2.3GHz</string>
     <string name="oc_running_summary">Im übertakteten Zustand</string>
     <string name="net_correct_limit_type">SIM card attribution</string>
-    <string name="float_window_dialog_msg_disable">确定关闭流量悬浮窗？关闭后可在流量监控流量快捷入口设置中开启。</string>
-    <string name="correct_dummy_confirm_msg">我们将向运营商发送流量查询短信，由于此卡为虚拟SIM卡，此操作可能会产生短信费用或校准失败，是否校准？</string>
-    <string name="net_dummy_correct_setting_desc">此卡是虚拟运营商SIM卡，暂不支持短信校准，自动校准流量已关闭。</string>	
+    <string name="float_window_dialog_msg_disable">Schwebendes Datenüberwachunsgsfenster schließen? Kann in den Schnelleinstellungen wieder geöffnet werden.</string>
+    <string name="correct_dummy_confirm_msg">SMS zur Abfrage des Datenverkehrs wird an den Netzbetreiber gesendet. Da dies eine virtuelle SIM-Karte ist, können Kosten entstehen, oder die Kalibrierung kann fehlschlagen. Kalibrierung fortsetzen?</string>
+    <string name="net_dummy_correct_setting_desc">Diese virtuelle SIM-Karte unterstützt keine Kalibrierung per SMS. Automatische Kalibrierung wird beendet.</string>	
 </resources>
