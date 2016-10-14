@@ -189,11 +189,11 @@
 	<string name="pref_camera_id_title">Kamera wählen</string>
 	<string name="pref_camera_id_default">0</string>
 	<string name="pref_camera_id_index_back">0</string>
-	<string name="pref_camera_id_index_front">1.</string>
+	<string name="pref_camera_id_index_front">1</string>
 	<string name="pref_camera_id_entry_back">Zurück</string>
 	<string name="pref_camera_id_entry_front">Vorderseite</string>
 	<string name="pref_camera_id_entry_back_value">0</string>
-	<string name="pref_camera_id_entry_front_value">1.</string>
+	<string name="pref_camera_id_entry_front_value">1</string>
 	<string name="pref_camera_save_location_title">Standort speichern</string>
 	<string name="pref_camera_recordlocation_default">keine</string>
 	<string name="pref_camera_location_label">Standort</string>
@@ -295,9 +295,9 @@
 	<string name="dialog_ok">OK</string>
 	<string name="dialog_cancel">Abbrechen</string>
 	<string name="spaceIsLow_content">Auf Ihrer SD-Karte ist nicht mehr genügend Speicherplatz vorhanden. Ändern Sie die Qualitätseinstellung oder löschen Sie Bilder oder andere Dateien.</string>
-	<string name="image_file_name_format">'scanner'_yyyyMMdd_HHmmss</string>
-	<string name="video_file_name_format">'VID'_yyyyMMdd_HHmmss</string>
-	<string name="pano_file_name_format">'PANO'_yyyyMMdd_HHmmss</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
 	<string name="video_reach_size_limit">Maximale Größe erreicht</string>
 	<string name="pano_too_fast_prompt">Zu schnell</string>
 	<string name="pano_dialog_prepare_preview">Panorama wird vorbereitet</string>
@@ -818,7 +818,6 @@ Bitte kontaktieren Sie Morpho."</string>
 	<string name="switch_photo_fullscreen">Vollbildansicht</string>
 	<string name="trimming">Wird zugeschnitten</string>
 	<string name="muting">Ton wird ausgeschaltet...</string>
-	<string name="save_into">Video wird in %1$s gespeichert...</string>
 	<string name="save_into">Video wird in %1$s gespeichert...</string>
 	<string name="trim_too_short">Zuschneiden nicht möglich: Ziel-Video zu kurz</string>
 	<string name="pano_progress_text">Panorama wird gerendert...</string>
