@@ -189,11 +189,11 @@
 	<string name="pref_camera_id_title">Kamera wählen</string>
 	<string name="pref_camera_id_default">0</string>
 	<string name="pref_camera_id_index_back">0</string>
-	<string name="pref_camera_id_index_front">1</string>
+	<string name="pref_camera_id_index_front">1.</string>
 	<string name="pref_camera_id_entry_back">Zurück</string>
 	<string name="pref_camera_id_entry_front">Vorderseite</string>
 	<string name="pref_camera_id_entry_back_value">0</string>
-	<string name="pref_camera_id_entry_front_value">1</string>
+	<string name="pref_camera_id_entry_front_value">1.</string>
 	<string name="pref_camera_save_location_title">Standort speichern</string>
 	<string name="pref_camera_recordlocation_default">keine</string>
 	<string name="pref_camera_location_label">Standort</string>
