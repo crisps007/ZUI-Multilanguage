@@ -45,16 +45,16 @@
 	<string name="advanced_settings">Erweiterte Einstellungen</string>
 	<string name="auth_username_title">Benutzernamen Authentifizierung</string>
 	<string name="auth_username_summary">Benutzernamen für die Authentifizierung</string>
-	<string name="default_preference_summary">&lt;Nicht gesetzt&gt;</string>
+	<string name="default_preference_summary">&lt;Nicht festgelegt&gt;</string>
 	<string name="display_name_summary">&lt;Wie Nutzername&gt;</string>
 	<string name="optional_summary">&lt;Optional&gt;</string>
 	<string name="default_port">5060</string>
 	<string name="default_transport">UDP</string>
-	<string name="advanced_settings_show">▷ Alle Zeigen</string>
-	<string name="advanced_settings_hide">▽ Alle Verstecken</string>
-	<string name="empty_alert">%s ist erforderlich und darf nicht leer sein</string>
+    <string name="advanced_settings_show">▷ Tippen, um alle einzublenden</string>
+    <string name="advanced_settings_hide">▽ Tippen, um alle auszublenden</string>
+    <string name="empty_alert">%s ist ein Pflichtfeld. Es darf nicht leer bleiben.</string>
 	<string name="not_a_valid_port">Portnummer muss zwischen 1000 und 65534 liegen.</string>
-	<string name="no_internet_available">Überprüfen Sie zunächst Ihre Internetverbindung, bevor Sie einen Internetanruf tätigen</string>
+	<string name="no_internet_available">Überprüfen Sie zunächst Ihre Internetverbindung, bevor Sie einen Internetanruf tätigen.</string>
 	<string name="no_wifi_available">Für Internetanrufe ist eine aktive WLAN-Verbindung notwendig. Wählen Sie die entsprechenden Einstellungen unter \"Drahtlos &amp; Netzwerke\".</string>
 	<string name="no_voip">Internetanrufe werden nicht unterstützt</string>
 	<string name="sip_system_decide">Automatisch</string>
@@ -71,7 +71,7 @@
 	<string name="send_keepalive">SendKeepAlive</string>
 	<string name="advanced_settings_container">Erweiterte Einstellungen</string>
 	<string name="auth_username">Anmeldename</string>
-	<string name="sip_connection_service_label">eingebautes SIP-Calling</string>
+    <string name="sip_connection_service_label">Integrierte Internettelefonie</string>
 	<string name="dialpad_0_labels" />
 	<string name="dialpad_1_labels" />
 	<string name="dialpad_2_labels" />
@@ -461,8 +461,10 @@
 	<string name="throttle_status_subtext">%1$s (%2$d٪) of %3$s period maximum
 Next period starts in %4$d days (%5$s)</string>
 	<string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
-	<string name="throttle_data_rate_reduced_subtext">Maximum von %1$s wurde überschritten.\nDatenrate wurde auf %2$d kbit/s reduziert.</string>
-	<string name="throttle_time_frame_subtext">%1$d % des Zyklus sind verstrichen. \nDer nächste Zeitraum beginnt in %2$d Tagen (%3$s).</string>
+    <string name="throttle_data_rate_reduced_subtext">"Maximum von %1$s wurde überschritten.
+Datenrate wurde auf %2$d kbit/s reduziert."</string>
+    <string name="throttle_time_frame_subtext" formatted="false">"%1$d % des Zyklus sind verstrichen. 
+Der nächste Zeitraum beginnt in %2$d Tagen (%3$s)."</string>
 	<string name="throttle_rate_subtext">Datenrate wird auf %1$d kbit/s reduziert, wenn Datennutzungslimit überschritten wird.</string>
 	<string name="throttle_help_subtext">Weitere Informationen zu den Richtlinien Ihres Mobilfunkanbieters zur Nutzung der Mobilfunkdaten</string>
 	<string name="cell_broadcast_sms">Cell Broadcast SMS</string>

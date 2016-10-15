@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="clir_display_values">
+    <string-array name="clir_display_values">
         <item>Netzwerkvoreinstellung</item>
         <item>Nummer verbergen</item>
         <item>Nummer anzeigen</item>
-       <string-array name="call_barring_outgoing_display_values">
+    </string-array>
+    <string-array name="call_barring_outgoing_display_values">
         <item>Off</item>
         <item>Internationaler Roaming Anrufe</item>
         <item>Internationale Anrufe</item>
         <item>Ausgehende Anrufe</item>
     </string-array>
-        <string-array name="call_barring_incoming_display_values">
+    <string-array name="call_barring_incoming_display_values">
         <item>Aus</item>
         <item>Roaming</item>
         <item>Alle</item>
     </string-array>
-       <string-array name="list_language_entries">
+    <string-array name="list_language_entries">
         <item>Englisch</item>
         <item>Französisch</item>
         <item>Spanisch</item>
