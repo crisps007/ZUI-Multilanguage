@@ -435,8 +435,8 @@ Hören mit hoher Lautstärke über lange Zeiträume kann das Gehör schädigen."
 	<string name="status_bar_ongoing_events_title">Aktuell</string>
 	<string name="status_bar_latest_events_title">Benachrichtigungen</string>
 	<string name="battery_low_title">Akku ist schwach</string>
-	<string name="battery_low_percent_format">%s verbleibend</string>
-	<string name="battery_low_percent_format_saver_started">%s verbleibend. Der Energiesparmodus ist aktiviert.</string>
+	<string name="battery_low_percent_format">%d%% verbleibend</string>
+	<string name="battery_low_percent_format_saver_started">%d%% verbleibend. Der Energiesparmodus ist aktiviert.</string>
 	<string name="invalid_charger">USB-Aufladung wird nicht unterstützt.\nVerwende das mitgelieferte Aufladegerät.</string>
 	<string name="invalid_charger_title">Laden per USB wird nicht unterstützt.</string>
 	<string name="invalid_charger_text">Verwende nur das im Lieferumfang enthaltene Ladegerät.</string>
