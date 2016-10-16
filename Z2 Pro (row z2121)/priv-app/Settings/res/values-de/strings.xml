@@ -2819,7 +2819,7 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="zen_rule_cancle">Verwerfen</string>
     <string name="zen_rule_next_day">Nächster Tag</string>
     <string name="zen_rule_name_hint">Regelname</string>
-    <string name="auto_power_title">Autom. ein/ausschalten</string>
+    <string name="auto_power_title">Autom. ein-/ausschalten</string>
     <string name="auto_poweron_item">Automatisch an</string>
     <string name="auto_poweroff_item">Automatisch aus</string>
     <string name="zen_by_user">Manuell</string>
