@@ -54,7 +54,7 @@
 	<string name="op_pow_root">[x]√y</string>
 	<string name="op_rad">rad</string>
 	<string name="op_deg">deg</string>
-	<string name="app_name">Kamera</string>
+	<string name="app_name">Rechner</string>
 	<string name="error_nan">keine Zahl</string>
 	<string name="error_syntax">Ungültiger Ausdruck</string>
 	<string name="desc_const_e">Euler'sche Zahl</string>
