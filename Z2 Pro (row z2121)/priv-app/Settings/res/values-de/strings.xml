@@ -2873,7 +2873,7 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="screen_back_home_category">Nach aktivieren, Telefon neu starten</string>
     <string name="sunshine_category_summary">Die Helligkeit wird bei starken Sonnenlicht automatisch verbessert</string>
     <string name="sunshine_disable_category_summary">Helligkeitsverbesserung ist deaktiviert, wenn adaptive Helligkeit ausgeschalten ist.</string>
-    <string name="speed_overclocking">Übertakten Modus</string>
+    <string name="speed_overclocking">CPU übertakten</string>
     <string name="speed_overclocking_summary">CPU übertakten um die Leistung zu erhöhen.</string>
     <string name="wifi_share_qcode">WLAN QR Code</string>
     <string name="wifi_share_qcode_toast">QR Code scannen, um mit diesen WLAN zu verbinden.</string>
