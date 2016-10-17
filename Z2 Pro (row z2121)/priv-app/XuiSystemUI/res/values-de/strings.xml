@@ -415,7 +415,7 @@ Hören mit hoher Lautstärke über lange Zeiträume kann das Gehör schädigen."
 	<string name="Gome_name">Gome</string>
 	<string name="lock_app_icon_toast">Herunter ziehen zum Sperren/Entsperren</string>
 	<string name="enable_notification">Zulassen</string>
-	<string name="disable_notification">Nicht zulassen</string>
+	<string name="disable_notification">Ablehnen</string>
 	<string name="enable_notification_hints">Erlaube Push-Benachrichtigungen</string>
 	<string name="notification_hints_title">Push-Benachrichtigungen</string>
 	<string name="keyword_5">￥</string>
