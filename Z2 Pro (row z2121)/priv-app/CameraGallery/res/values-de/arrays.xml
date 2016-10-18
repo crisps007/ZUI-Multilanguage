@@ -11,18 +11,18 @@
         <item>Makro</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
-        <item>off</item>
-        <item>on</item>
-        <item>auto</item>
+        <item>Aus</item>
+        <item>An</item>
+        <item>Auto</item>
     </string-array>
     <string-array name="pref_camera_sub_video_touch_mode_entryvalues">
-        <item>off</item>
-        <item>torch</item>
+        <item>Aus</item>
+        <item>Leuchte</item>
     </string-array>
     <string-array name="pref_camera_hdr_plus_flashmode_entryvalues">
-        <item>off</item>
-        <item>auto</item>
-        <item>on</item>
+        <item>Aus</item>
+        <item>Auto</item>
+        <item>An</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
         <item>Aus</item>
