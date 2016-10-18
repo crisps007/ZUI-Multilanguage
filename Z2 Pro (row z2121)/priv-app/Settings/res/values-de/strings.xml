@@ -3205,7 +3205,7 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="show_keyboard_notification">Zeige Tastaturänderung in der Benachrichtigung</string>
     <string name="content_adaptive_brightness_control">CABC</string>
     <string name="content_adaptive_brightness_control_summary">Inhalte der Adaptiven Helligkeitsregelung</string>
-    <string name="protection_eyes_mode">Night Color</string>
+    <string name="protection_eyes_mode">Nachmodus</string>
     <string name="open_protection_eyes_mode">Manuell</string>
     <string name="eyes_mode_time">Geplant</string>
     <string name="eyes_mode_add_title">Zeit ändern</string>
