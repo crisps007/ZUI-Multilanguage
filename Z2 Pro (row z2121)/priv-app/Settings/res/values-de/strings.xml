@@ -2538,7 +2538,7 @@ Jeder Nutzer kann Apps für alle anderen Nutzer aktualisieren."</string>
     <string name="zen_mode_schedule_rule_days_all">Täglich</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-    <string name="summary_range_verbal_combination">%1$s to %2$s</string>
+    <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
     <string name="zen_mode_calls">Anrufe</string>
     <string name="zen_mode_messages">Nachrichten</string>
     <string name="zen_mode_selected_messages">Ausgewählte Nachrichten</string>
@@ -2558,7 +2558,7 @@ Jeder Nutzer kann Apps für alle anderen Nutzer aktualisieren."</string>
     <string name="zen_mode_when_weeknights">Wochentags abends</string>
     <string name="zen_mode_start_time">Startzeit</string>
     <string name="zen_mode_end_time">Endzeit</string>
-    <string name="zen_mode_end_time_next_day_summary_format">Am nächsten Tag um %s</string>
+    <string name="zen_mode_end_time_next_day_summary_format">morgen um %s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Für unbegrenzte Zeit zur Option \"Nur Wecker\" wechseln</string>
     <string name="zen_mode_summary_alarms_only_by_time">Bis %1$s zur Option \"Nur Wecker\" wechseln</string>
     <string name="zen_mode_summary_always">Zur Option \"Immer unterbrechen\" wechseln</string>
