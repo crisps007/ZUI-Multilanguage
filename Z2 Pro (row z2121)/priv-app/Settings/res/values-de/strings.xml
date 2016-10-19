@@ -679,8 +679,6 @@ Halte die Geräte einfach dicht nebeneinander, am besten Rückseite an Rückseit
     <string name="wifi_error">Fehler</string>
     <string name="wifi_sap_no_channel_error">Das 5-GHz-Band ist in diesem Land nicht verfügbar.</string>
     <string name="wifi_in_airplane_mode">Im Flugmodus</string>
-    <string name="wifi_notify_open_networks">Netzwerkhinweis</string>
-    <string name="wifi_notify_open_networks_summary">Immer benachrichtigen, wenn öffentliches Netzwerk verfügbar</string>
     <string name="wifi_poor_network_detection">Schlechte Internetverbindungen vermeiden</string>
     <string name="wifi_poor_network_detection_summary">WLAN nur bei guter Internetverbindung verwenden</string>
     <string name="wifi_avoid_poor_network_detection_summary">Nur Netzwerke mit stabiler Internetverbindung verwenden</string>
@@ -690,7 +688,6 @@ Halte die Geräte einfach dicht nebeneinander, am besten Rückseite an Rückseit
     <string name="wifi_install_credentials">Zertifikate installieren</string>
     <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit können System-Apps und -dienste weiterhin nach WLAN-Netzwerken suchen. Du kannst dies unter LINK_BEGINSucheinstellungenLINK_END ändern.</string>
     <string name="wifi_scan_notify_remember_choice">Nicht erneut anzeigen</string>
-    <string name="wifi_setting_sleep_policy_title">WLAN im Ruhemodus aktiviert lassen</string>
     <string name="wifi_setting_on_during_sleep_title">WLAN im Ruhemodus aktiviert</string>
     <string name="wifi_setting_sleep_policy_error">Beim Ändern der Einstellung ist ein Problem aufgetreten.</string>
     <string name="wifi_suspend_efficiency_title">Effizienz verbessern</string>
@@ -2956,7 +2953,6 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="fingerprint_not_recognized">Nicht erkannt</string>
     <string name="save">Speichern</string>
     <string name="lock_settings_picker_fingerprint_message">Alternative Methode für die Displaysperre auswählen</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts">Zu viele fehlerhafte Versuche. Bitte versuche es in %d Sekunden erneut.</string>
     <string name="volume_up">Lauter</string>
     <string name="volume_down">Leiser</string>
     <string name="press_volume_up">Lautstärketaste lauter drücken</string>
