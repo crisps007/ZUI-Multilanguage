@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>Kein Betreff</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Fröhlich</item>
+        <item>Traurig</item>
+        <item>Zwinkernd</item>
+        <item>Zunge rausgestreckt</item>
+        <item>Überrascht</item>
+        <item>Küssend</item>
+        <item>Schreiend</item>
+        <item>Cool</item>
+        <item>Geld spuckend</item>
+        <item>Foot in mouth</item>
+        <item>Berührt</item>
+        <item>Engel</item>
+        <item>Unsicher</item>
+        <item>Weinend</item>
+        <item>Versiegelte Lippen</item>
+        <item>Lachend</item>
+        <item>Verwirrt</item>
+        <item>Herz</item>
+        <item>Wütend</item>
+        <item>Grinsen</item>
+        <item>Pokerface</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 Sekunde</item>
+        <item>2 Sekunden</item>
+        <item>3 Sekunden</item>
+        <item>4 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>6 Sekunden</item>
+        <item>7 Sekunden</item>
+        <item>8 Sekunden</item>
+        <item>9 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>Andere</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Sorry, ich bin gerade in einem Meeting.</item>
+        <item>Was machst du?</item>
+        <item>Ich rufe zurück.</item>
+        <item>Ich bin gleich da.</item>
+        <item>Ich bin OK. Kein Grund zur Sorge.</item>
+        <item>Ich kann gerade nicht, bitte eine Nachricht senden.</item>
+    </string-array>
+    <string-array name="antispam_mode_list">
+        <item>Blockierte Nummern</item>
+        <item>Nur Kontakte erlauben</item>
+        <item>Nur Ausnahmen erlauben</item>
+    </string-array>
+    <string-array name="antispam_endcall_mode_list">
+        <item>Zurück beschäftigt</item>
+        <item>Zurück ausschalten</item>
+        <item>Zurück herunterfahren</item>
+        <item>Zurück Nummer frei</item>
+    </string-array>
+    <string-array name="classifies">
+        <item>Werbung</item>
+        <item>Vermuteter Betrug</item>
+        <item>Spam-Anrufe</item>
+        <item>Immobilienmakler</item>
+        <item>Kurierdienste</item>
+    </string-array>
+    <string-array name="antispam_autoclean_period">
+        <item>7 Tage</item>
+        <item>30 Tage</item>
+    </string-array>
+</resources>
