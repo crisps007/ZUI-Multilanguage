@@ -134,7 +134,7 @@
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="set_image">Bild festlegen als</string>
-    <string name="delete">Schließen</string>
+    <string name="delete">Löschen</string>
     <string name="share">Teilen</string>
     <string name="share_panorama">Panorama teilen</string>
     <string name="share_as_photo">Als Foto teilen</string>
@@ -470,8 +470,10 @@ Andere Apps können auf diese Informationen und Ihre gespeicherten Bilder zugrei
     <string name="edit_with">Bearbeiten mit</string>
     <string name="startup_dialog_button_next">Weiter</string>
     <string name="confirm_button_text">OK</string>
-    <string name="full_sensor_4x3_aspect_ratio">Ergebnis beibehalten (4:3)</string>
-    <string name="cropped_sensor_16x9_aspect_ratio">Ergebnis zuschneiden (16:9)</string>
+    <string name="full_sensor_4x3_aspect_ratio">"Ergebnis beibehalten 
+(4:3)"</string>
+    <string name="cropped_sensor_16x9_aspect_ratio">Ergebnis zuschneiden 
+(16:9)"</string>
     <string name="pref_boolean_false">0</string>
     <string name="pref_boolean_true">1.</string>
     <string name="gallery_app_name">Gallerie</string>
@@ -575,8 +577,6 @@ Bitte kontaktieren Sie Morpho."</string>
     <string name="use_location_alert">Verwende Standortinformationen in Fotos.</string>
     <string name="use_location_quit">Schließen</string>
     <string name="use_location_ok">Kamera einschalten</string>
-    <string name="storage_path_camera">Kamera</string>
-    <string name="storage_path_dcim">DCIM</string>
     <string name="storage_sdcard_mounted">Externe SD-Karte eingehängt</string>
     <string name="storage_sdcard_unmounted">Externe SD-Karte ausgehängt</string>
     <string name="mode_selector_swipe_hint_text">Nach unten wischen zur Modusauswahl</string>
@@ -600,12 +600,12 @@ Bitte kontaktieren Sie Morpho."</string>
     <string name="delete_one_image">Dieses Foto löschen?</string>
     <string name="delete_one_video">Dieses Video löschen?</string>
     <string name="delete_one_continue_folder">Diese Reihe Serienbilder löschen?</string>
-    <string name="first_dialog_title">Berechtigungsabfrage</string>
-    <string name="first_dialog_text_1">Kamera öffnen</string>
-    <string name="first_dialog_text_1_message">For photo and video</string>
-    <string name="first_dialog_text_2">Standort öffnen</string>
-    <string name="first_dialog_text_2_message">For record Location info</string>
-    <string name="first_dialog_not_show">Nicht nochmal anzeigen</string>
+    <string name="first_dialog_title">Kamera erfordert folgenden Berechtigungen</string>
+    <string name="first_dialog_text_1">Kamerazugriff</string>
+    <string name="first_dialog_text_1_message">Um Bilder oder Video aufzunehmen</string>
+    <string name="first_dialog_text_2">Standort Ermittlung</string>
+    <string name="first_dialog_text_2_message">Um geografische Standort Information in der Aufnahme festzuhalten</string>
+    <string name="first_dialog_not_show">Auswahl merken</string>
     <string name="first_dialog_quit">Schließen</string>
     <string name="first_dialog_yes">Zustimmen</string>
     <string name="sub_video_recording_started">Aufnahme</string>
