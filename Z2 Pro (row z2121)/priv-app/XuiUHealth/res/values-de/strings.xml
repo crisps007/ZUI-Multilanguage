@@ -50,7 +50,7 @@
     <string name="continue_sport">Verbrauch durch Sport</string>
     <string name="continues">Fortfahren</string>
     <string name="copyright">Copyright © 2016 Shen Qi All rights reserved</string>
-    <string name="cta_dialog_checkbox_info">Nicht wieder anzeigen</string>
+    <string name="cta_dialog_checkbox_info">Auswahl merken</string>
     <string name="cta_dialog_location">Standortzugriff</string>
     <string name="cta_dialog_location_context">Örtliche Aufzeichung Übungsverlaufs</string>
     <string name="cta_dialog_negatice_btn">Verlassen</string>
