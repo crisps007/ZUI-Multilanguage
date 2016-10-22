@@ -339,8 +339,8 @@ Für die Übertragung werden stromsparende Bluetooth-Signale verwendet."</string
     <string name="bluetooth_connection_dialog_text">Möchtest du eine Verbindung mit \"%1$s\" herstellen?</string>
     <string name="bluetooth_phonebook_request">Anforderung für Telefonbuchzugriff</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s möchte auf deine Kontakte und deine Anrufliste zugreifen. Möchtest du %2$s den Zugriff erlauben?</string>
-    <string name="bluetooth_remember_choice">Nicht mehr fragen</string>
-    <string name="bluetooth_pb_remember_choice">Nicht mehr fragen</string>
+    <string name="bluetooth_remember_choice">Auswahl merken</string>
+    <string name="bluetooth_pb_remember_choice">Auswahl merken</string>
     <string name="bluetooth_map_request">Anforderung für Nachrichtenzugriff</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s möchte auf deine Nachrichten zugreifen. Möchtest du %2$s den Zugriff erlauben?</string>
     <string name="date_and_time">Datum &amp; Uhrzeit</string>
@@ -687,7 +687,7 @@ Halte die Geräte einfach dicht nebeneinander, am besten Rückseite an Rückseit
     <string name="wifi_select_assistant_dialog_title">Assistent auswählen</string>
     <string name="wifi_install_credentials">Zertifikate installieren</string>
     <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit können System-Apps und -dienste weiterhin nach WLAN-Netzwerken suchen. Du kannst dies unter LINK_BEGINSucheinstellungenLINK_END ändern.</string>
-    <string name="wifi_scan_notify_remember_choice">Nicht erneut anzeigen</string>
+    <string name="wifi_scan_notify_remember_choice">Auswahl merken</string>
     <string name="wifi_setting_on_during_sleep_title">WLAN im Ruhemodus aktiviert</string>
     <string name="wifi_setting_sleep_policy_error">Beim Ändern der Einstellung ist ein Problem aufgetreten.</string>
     <string name="wifi_suspend_efficiency_title">Effizienz verbessern</string>

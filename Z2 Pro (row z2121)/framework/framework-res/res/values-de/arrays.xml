@@ -38,7 +38,7 @@
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="fingerprint_error_vendor">
-        <item>Bildschirm entsperren benötigt einen Fingerabdruck Erkennung</item>
+        <item>Bildschirm entsperren benötigt eine Fingerabdruck Erkennung</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Privat</item>
