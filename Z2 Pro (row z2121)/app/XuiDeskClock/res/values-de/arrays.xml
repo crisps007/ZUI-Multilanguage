@@ -301,6 +301,10 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <string-array name="timer_ring_dialog_content">
+        <item>Klingeln</item>
+        <item>Vibrieren</item>
+    </string-array>
     <string-array name="timer_notifications">
         <item>Nur noch weniger als eine Minute</item>
         <item>Noch %1$s</item>

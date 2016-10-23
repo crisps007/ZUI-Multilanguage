@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Commons.Proceed">Fortfahren</string>
     <string name="HttpAuthenticationDialog.DialogTitle">Einloggen in %1$s - %2$s</string>
     <string name="HttpAuthenticationDialog.Password">Passwort</string>
     <string name="HttpAuthenticationDialog.UserName">Name</string>
