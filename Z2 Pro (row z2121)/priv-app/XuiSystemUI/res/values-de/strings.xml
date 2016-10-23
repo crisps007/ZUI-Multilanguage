@@ -245,9 +245,9 @@ Versuchen Sie es in %d Sekunden erneut."</string>
 	<string name="custom_switch_position_description4">Mehr...</string>
 	<string name="control_center_more_settings_tip">Nach unten ziehen zum Öffnen der Einstellungen</string>
 	<string name="control_center_settings_lockscreen_title">Auf Sperrbildschirm anzeigen</string>
-	<string name="control_center_settings_application_title">In der App anzeigen</string>
+	<string name="control_center_settings_application_title">In Apps anzeigen</string>
 	<string name="control_center_settings_application_summary">Kann auch auf der Startseite angezeigt werden, wenn inaktiv</string>
-	<string name="control_center_settings_guideline">Wischen Sie von der Unterseite des Bildschirms, um die Schnelleinstellungen zu öffnen</string>
+	<string name="control_center_settings_guideline">Wischen Sie von der Unterseite des Bildschirms nach oben, um die Schnelleinstellungsleiste zu öffnen</string>
 	<string name="controlcenter_care_packages">package:com.zui.search,package:com.tencent.mm,</string>
 	<string name="controlcenter_microchat_package">com.tencent.mm</string>
 	<string name="control_center_globalsearch_package">com.zui.search</string>
@@ -850,8 +850,8 @@ Zudem sind Sie zu einem VPN verbunden(\"%3$s\"). Ihr VPN-Dienst-Anbieter können
 	<string name="otg_notification_cannot_access_file">Fehler beim Zugriff auf Dateien, antippen für Details</string>
 	<string name="otg_need_file_manager_to_access_file">Bitte im Anwendungscenter den Dateimanager installieren um auf Dateien zu zugreifen</string>
 	<string name="screen_pinning_title">Bildschirm ist fixiert</string>
-	<string name="screen_pinning_description">Der Bildschirm wird so lange angezeigt, bis du die Fixierung aufhebst. Berühre &amp; halte \"Zurück\", um die Fixierung aufzuheben.</string>
-	<string name="screen_pinning_description_accessible">Dies wird weiterhin angezeigt, bis sie es unpinnen. Berühren und halten Sie Übersicht, um es zu entpinnen.</string>
+	<string name="screen_pinning_description">Der Bildschirm wird so lange angezeigt, bis Sie die Fixierung aufheben. Berühre &amp; halte \"Zurück\", um die Fixierung aufzuheben.</string>
+	<string name="screen_pinning_description_accessible">Dies wird weiterhin angezeigt, bis Sie es entpinnen. Berühren und halten Sie Übersicht, um es zu entpinnen.</string>
 	<string name="screen_pinning_positive">OK</string>
 	<string name="screen_pinning_negative">Nein danke</string>
 	<string name="keyguard_unlock_string">Wischen zum Entsperren des Bildschirms</string>
