@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="card_manager_title_name">Mobilfunknetz &amp; SIM</string>
+    <string name="card_manager_title_name">Mobilfunk &amp; SIM</string>
     <string name="card_info_name_category">SIM Information</string>
     <string name="card_default_name_category">SIM Priorität</string>
     <string name="null_card_number_reminder">Bitte Kartennummer eingeben</string>
@@ -9,7 +9,7 @@
     <string name="card_active">Aktiviert</string>
     <string name="card_actived" />
     <string name="card_deactived">Deaktiviert</string>
-    <string name="card_call_default">Telefon</string>
+    <string name="card_call_default">Anrufe</string>
     <string name="card_sms_default">Nachrichten</string>
     <string name="card_data_default">Mobilfunkdaten</string>
     <string name="inter_roaming_default">Roaming International</string>
@@ -410,14 +410,14 @@
     <string name="register_on_network">"Registrierung in %s läuft..."</string>
     <string name="not_allowed">Ihre SIM-Karte unterstützt keine Verbindung mit diesem Netzwerk.</string>
     <string name="connect_later">Momentan kann keine Verbindung zu diesem Netzwerk aufgebaut werden. Bitte versuchen Sie es später erneut.</string>
-    <string name="registration_done">Registrato sulla rete.</string>
+    <string name="registration_done">Im Netzwerk registriert.</string>
     <string name="networks">In Netzwerk registriert.</string>
     <string name="cancel">Abbrechen</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="number_input_promt">Bitte Nummer eingeben</string>
-    <string name="volte_settings_title">VoLTE Telefonat</string>
-    <string name="volte_settings_summary">Aktiviert VoLTE Anrufe, wenn der Netzbetreiber es unterstütz</string>
+    <string name="volte_settings_title">VoLTE Anrufe</string>
+    <string name="volte_settings_summary">Aktiviert VoLTE Anrufe, wenn der Betreiber es unterstützt</string>
     <string name="new_sim_title">Standard Daten SIM ändern?</string>
     <string name="new_sim_nochange">Nein</string>
     <string name="new_sim_change">Ändern</string>
