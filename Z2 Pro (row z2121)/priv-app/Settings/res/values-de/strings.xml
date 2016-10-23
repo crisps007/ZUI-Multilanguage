@@ -87,14 +87,14 @@
     <string name="fp_pwd_sofu">Home Button antippen zum entsperren</string>
     <string name="fp_pwd_sofu_summary">Eingeschalten, reduziert es die Standby Zeit</string>
     <string name="fp_pwd_cover_mode_title">Handyhülle</string>
-    <string name="fp_pwd_cover_mode">Handyhülle Entsperrung</string>
-    <string name="fp_pwd_cover_mode_summary">Skip lock screen when opening phone cover</string>
-    <string name="pwd_category_title">Zahlencode</string>
+    <string name="fp_pwd_cover_mode">MIt Handyhülle entsperren</string>
+    <string name="fp_pwd_cover_mode_summary">Telefon entsperren beim Öffnen der Handyhülle</string>
+    <string name="pwd_category_title">Art der Bildschirmsperre</string>
     <string name="pwd_to_open_title">Zahlencode einschalten</string>
-    <string name="pwd_to_close_title">Zahlencode auschalten</string>
-    <string name="pwd_password_setting_title">Zahlencode setzen</string>
-    <string name="pwd_display_pattern_line_title">Muster sichtbar</string>
-    <string name="pwd_password_character_title">Zahlencode sichtbar</string>
+    <string name="pwd_to_close_title">Zahlencode ausschalten</string>
+    <string name="pwd_password_setting_title">Bildschirmsperre setzen</string>
+    <string name="pwd_display_pattern_line_title">Muster sichtbar machen</string>
+    <string name="pwd_password_character_title">Passwort sichtbar machen</string>
     <string name="pwd_mode_none_title">Kein Passwort</string>
     <string name="pwd_mode_none_title_abbr">Keine</string>
     <string name="pwd_mode_pattern_title">Muster</string>
@@ -156,7 +156,7 @@ Bitte einen anderen Finger verwenden."</string>
     <string name="fingerprint_detail_modify_name_dialog_cancel">Abbruch</string>
     <string name="fap_detail_name_tooltip">Bitte Fingerabdruck entsprechend umbennenen, z.B. “Rechter Daumen”</string>
     <string name="fap_detail_smartfp_tooltip">Fingerabdruck verwenden für</string>
-    <string name="fap_detail_smartfp_none">Telefon Entsperrung</string>
+    <string name="fap_detail_smartfp_none">Telefonentsperrung</string>
     <string name="fap_detail_smartfp_alipay_qrcode">Entsperrung und Alipay QR Code anzeigen</string>
     <string name="fap_detail_smartfp_wx_qrcode_scaner">Entsperrung und Wechat QR Code scannen öffnen</string>
     <string name="fap_detail_smartfp_open_app">Entsperrung und eine App öffnen</string>
@@ -196,7 +196,7 @@ Bitte einen anderen Finger verwenden."</string>
     <string name="confirm_fp_failed_turn_to_pattern">Zuviele Fingerabdrucksversuche. Entsperrmuster notwendig</string>
     <string name="clear_fp_pwd">Bei Entfernung des Passwortes, werden alle Fingerabdrücke gelöscht und die Anwendungssperre deaktiviert.</string>
     <string name="CLOSE">Schließen</string>
-    <string name="fap_applock_switch">Fingerabdruck Anwendungssperre</string>
+    <string name="fap_applock_switch">Fingerabdruck-Anwendungssperre</string>
     <string name="fap_applock_entry">Anwendungen sperren</string>
     <string name="fap_applock_no_fp_title">Fingerabdruck Anwendungssperre abgelaufen</string>
     <string name="fap_applock_no_fp_message">Bei Entfernung Fingerabdrücke wird Anwendungssperre deaktiviert.</string>
@@ -437,7 +437,6 @@ Für die Übertragung werden stromsparende Bluetooth-Signale verwendet."</string
     <string name="wireless_networks_settings_title">Drahtlos &amp; Netzwerke</string>
     <string name="radio_controls_summary">WLAN, Bluetooth, Flugmodus, Mobilfunknetze und VPNs verwalten</string>
     <string name="cellular_data_title">Mobilfunkdaten</string>
-    <string name="data_disabled_in_active_call">Mobilfunkdaten sind aktiven Anruf deaktiviert.</string>
     <string name="calls_title">Anrufe</string>
     <string name="sms_messages_title">SMS</string>
     <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
@@ -501,6 +500,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
     <string name="crypt_keeper_encrypt_title">Telefon verschlüsseln</string>
     <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
     <string name="crypt_keeper_desc">"Du kannst deine Konten, Einstellungen, heruntergeladenen Apps und die zugehörigen Daten, Medienelemente und andere Dateien verschlüsseln. Nachdem du dein Telefon verschlüsselt hast, musst du, sofern du eine Displaysperre eingerichtet hast (also ein Muster, eine numerische PIN oder ein Passwort), bei jedem Einschalten des Telefons das Display entsperren, um das Telefon zu entschlüsseln. Der einzige andere Weg zur Entschlüsselung ist das Zurücksetzen auf die Werkseinstellungen. Hierdurch werden alle deine Daten gelöscht.
+
 Die Verschlüsselung dauert mindestens eine Stunde. Bei Beginn muss der Akku aufgeladen sein und das Telefon muss sich während des gesamten Vorgangs im Netzbetrieb befinden. Wenn du den Vorgang unterbrichst, gehen einige oder alle deine Daten verloren."</string>
     <string name="crypt_keeper_button_text">Telefon verschlüsseln</string>
     <string name="crypt_keeper_low_charge_text">Lade den Akku auf und versuche es erneut.</string>
@@ -518,6 +518,7 @@ Die Verschlüsselung dauert mindestens eine Stunde. Bei Beginn muss der Akku auf
     <string name="crypt_keeper_enter_password">Passwort eingeben</string>
     <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
     <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten auf deinem Telefon nicht mehr möglich. 
+
 Damit du dein Telefon wieder verwenden kannst, musst du es auf die Werkseinstellungen zurücksetzen. Wenn du dein Telefon nach dem Zurücksetzen wieder einrichtest, kannst du gegebenenfalls Daten, die gesichert wurden, in deinem Google-Konto wiederherstellen."</string>
     <string name="crypt_keeper_data_corrupt_title">Fehler bei der Verschlüsselung</string>
     <string name="crypt_keeper_data_corrupt_summary">"Das von dir eingegebene Passwort ist korrekt, aber deine Daten sind beschädigt. 
@@ -662,7 +663,7 @@ Damit du dein Smartphone weiterhin verwenden kannst, musst du es auf die Werksei
     <string name="android_beam_disabled_summary">Nicht verfügbar, weil NFC deaktiviert ist</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"Wenn diese Funktion aktiviert ist, kannst du App-Inhalte auf ein anderes NFC-fähiges Gerät beamen, indem du die Geräte dicht nebeneinander hältst. Du kannst beispielsweise Browserseiten, YouTube-Videos und Kontakte beamen.
-
+\u0009
 Halte die Geräte einfach dicht nebeneinander, am besten Rückseite an Rückseite, und berühre den Bildschirm. Die App bestimmt, was übertragen wird."</string>
     <string name="nsd_quick_toggle_title">Diensterkennung</string>
     <string name="nsd_quick_toggle_summary">Ermöglicht Apps auf anderen Geräten, Apps auf diesem Gerät zu erkennen</string>	
@@ -677,16 +678,19 @@ Halte die Geräte einfach dicht nebeneinander, am besten Rückseite an Rückseit
     <string name="wifi_starting">WLAN wird aktiviert…</string>
     <string name="wifi_stopping">WLAN wird deaktiviert…</string>
     <string name="wifi_error">Fehler</string>
-    <string name="wifi_sap_no_channel_error">Das 5-GHz-Band ist in diesem Land nicht verfügbar.</string>
     <string name="wifi_in_airplane_mode">Im Flugmodus</string>
+    <string name="wifi_wapi_certification_dont_exist">Das eingegebene Netzwerk Passwort ist falsch. Bitte erneut versuchen.</string>
     <string name="wifi_poor_network_detection">Schlechte Internetverbindungen vermeiden</string>
     <string name="wifi_poor_network_detection_summary">WLAN nur bei guter Internetverbindung verwenden</string>
     <string name="wifi_avoid_poor_network_detection_summary">Nur Netzwerke mit stabiler Internetverbindung verwenden</string>
+    <string name="wifi_scan_always_available">Scannen immer verfügbar</string>
+    <string name="wifi_scan_always_available_title">Scannen immer erlauben</string>
     <string name="wifi_automatically_connect_title">Automatisch offenes WLAN verwenden</string>
     <string name="wifi_automatically_connect_summary">Automatische Verbindung mit offenen Netzwerken von hoher Qualität durch WLAN-Assistenten zulassen</string>
     <string name="wifi_select_assistant_dialog_title">Assistent auswählen</string>
     <string name="wifi_install_credentials">Zertifikate installieren</string>
-    <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit können System-Apps und -dienste weiterhin nach WLAN-Netzwerken suchen. Du kannst dies unter LINK_BEGINSucheinstellungenLINK_END ändern.</string>
+    <string name="wifi_scan_notify_text_location_on">"Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern."</string>
+    <string name="wifi_scan_notify_text_location_off">"Apps können auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern."</string>
     <string name="wifi_scan_notify_remember_choice">Auswahl merken</string>
     <string name="wifi_setting_on_during_sleep_title">WLAN im Ruhemodus aktiviert</string>
     <string name="wifi_setting_sleep_policy_error">Beim Ändern der Einstellung ist ein Problem aufgetreten.</string>
@@ -1271,7 +1275,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss die "<b>SD-Kart
     <string name="lockpattern_settings_choose_lock_pattern">Entsperrungsmuster</string>
     <string name="lockpattern_settings_change_lock_pattern">Muster ändern</string>
     <string name="lockpattern_settings_help_how_to_record">Zeichnen eines Entsperrungsmusters</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts">Zu viele fehlerhafte Versuche. Bitte versuche es in %d Sekunden erneut.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Zu viele fehlgeschlagene Versuche!</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Erneut in %d Sekunden versuchen.</string>
     <string name="activity_not_found">App ist nicht auf dem Telefon installiert.</string>
     <string name="manageapplications_settings_title">Apps verwalten</string>
@@ -1644,8 +1648,10 @@ Einige Apps funktionieren eventuell erst nach der Aktualisierung durch ihre Entw
 
 Wenn du herangezoomt hast, kannst du:
 "<li><ul>"Schwenken: mindestens 2 Finger über den Bildschirm ziehen
-"<li>Zoomstufe anpassen: mindestens 2 Finger zusammen- oder auseinanderziehen</li></ul></li>
+"<li>Zoomstufe anpassen: mindestens 2 Finger zusammen- oder auseinanderziehen</li></ul></li>"
+
 Du kannst auch das, was sich unter deinem Finger befindet, vorübergehend vergrößern, indem du dreimal tippst und hältst. In diesem vergrößerten Zustand kannst du deinen Finger ziehen, um verschiedene Bereiche des Bildschirms zu erkunden. Hebe deinen Finger an, um zum vorherigen Zustand zurückzukehren.
+
 Hinweis: Das dreimalige Tippen zur Vergrößerung funktioniert überall außer in der Tastatur und in der Navigationsleiste."</string>
     <string name="accessibility_global_gesture_preference_title">Kurzbefehl für Bedienungshilfen</string>
     <string name="accessibility_global_gesture_preference_summary_on">An</string>
@@ -1653,7 +1659,9 @@ Hinweis: Das dreimalige Tippen zur Vergrößerung funktioniert überall außer i
     <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, kannst du Bedienungshilfen schnell in zwei Schritten aktivieren:
 
 Schritt 1: Drücke und halte die Ein-/Aus-Taste, bis du einen Ton hörst oder eine Vibration spürst.
+
 Schritt 2: Berühre und halte mit zwei Fingern, bis du eine Audiobestätigung hörst.
+
 Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre so lange aktiviert, bis das Gerät entsperrt ist."</string>
     <string name="accessibility_toggle_large_text_preference_title">Großer Text</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">Text mit hohem Kontrast</string>
@@ -1886,6 +1894,7 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
     <string name="voice_input_output_settings">Spracheingabe&amp;-ausgabe</string>
     <string name="voice_input_output_settings_title">Einstellungen für Spracheingabe &amp; -ausgabe</string>
     <string name="voice_search_settings_title">Sprachsuche</string>
+    <string name="keyboard_settings_title">Android-Tastatur</string>
     <string name="voice_category">Sprache</string>
     <string name="voice_input_settings">Einstellungen für Spracheingabe</string>
     <string name="voice_input_settings_title">Spracheingabe</string>
@@ -2234,6 +2243,7 @@ Geeignetere Steuerelemente für die Datennutzung findest du in den Einstellungen
     <string name="data_usage_restrict_denied_dialog">"Hintergrunddaten können nur beschränkt werden, wenn du ein Mobilfunklimit festgelegt hast."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Automatische Synchronisierung aktivieren?</string>
     <string name="data_usage_auto_sync_on_dialog">"Änderungen, die du im Web an deinem Konto vornimmst, werden automatisch auf dein Telefon kopiert.
+
 Bei manchen Konten werden ggf. auch automatisch alle Änderungen, die du auf dem Telefon vornimmst, ins Web kopiert. Das ist die übliche Synchronisierungsfunktion eines Google-Kontos."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Autom. Synchronisierung deaktivieren?</string>
     <string name="data_usage_auto_sync_off_dialog">"So reduzierst du den Datenverbrauch und schonst den Akku, musst jedoch jedes einzelne Konto manuell synchronisieren, um neue Informationen abzurufen. Außerdem erhältst du keine Benachrichtigungen, wenn Aktualisierungen erfolgen."</string>
@@ -2244,11 +2254,13 @@ Bei manchen Konten werden ggf. auch automatisch alle Änderungen, die du auf dem
     <string name="data_usage_limit_editor_title">Limit festlegen</string>
     <string name="data_usage_limit_dialog_title">Datenverbrauch begrenzen</string>
     <string name="data_usage_limit_dialog_mobile">"Mobilfunkdaten werden auf deinem Telefon deaktiviert, sobald das von dir festgelegte Limit erreicht wird
+
 Da die Datennutzung von deinem Telefon berechnet wird und dein Mobilfunkanbieter die Nutzung möglicherweise anders berechnet, solltest du das Limit eher niedrig ansetzen."</string>
     <string name="data_usage_restrict_background_title">Hintergrunddaten beschränken?</string>
     <string name="data_usage_restrict_background">"Wenn du die mobilen Hintergrunddaten beschränkst, funktionieren einige Apps und Dienste nur bei einer aktiven WLAN-Verbindung."</string>
     <string name="data_usage_restrict_background_multiuser">"Wenn du die mobilen Hintergrunddaten beschränkst, funktionieren einige Apps und Dienste nur bei einer aktiven WLAN-Verbindung.
-Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
+
+	Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">Warnung</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>
@@ -2573,7 +2585,7 @@ Jeder Nutzer kann Apps für alle anderen Nutzer aktualisieren."</string>
     <string name="notification_ringtone_title">Standardton für Benachrichtigungen</string>
     <string name="vibrate_when_ringing_title">Bei Anrufen auch vibrieren</string>
     <string name="notification_section_header">Benachrichtigung</string>
-    <string name="notification_pulse_title">Benachrichtigungslicht</string>
+    <string name="notification_pulse_title">Benachrichtigungs-LED</string>
     <string name="lock_screen_notifications_title">Bei gesperrtem Gerät</string>
     <string name="lock_screen_notifications_summary_show">Gesamten Nachrichteninhalt anzeigen</string>
     <string name="lock_screen_notifications_summary_hide">Vertrauliche Benachrichtigungsinhalte ausblenden</string>
@@ -2704,9 +2716,8 @@ So schützt du Daten auf verloren gegangenen oder gestohlenen Geräten."</string
     <string name="toggle_recent_app_title">Nach links oder rechts wischen um in den Appverlauf zu wechseln</string>
     <string name="vibrate_touch_title">Vibrieren bei Berührung</string>
     <string name="toggle_recent_app_des">Nach links wischen um zu den zuletzt verwendeten Apps zu wechseln, nach rechts um wieder zurück zu wechseln</string>
-    <string name="u_guide_content_title">"Diese Funktionen in der Hometaste heißen U-Touch:
-Fingerabdruck Erkennung, Berühren springt zur vorherigen App, Drücken springt auf Startbildschirm,
-Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen den Apps zu wechseln.</string>
+    <string name="u_guide_content_title">"U-Touch umfasst die folgenden Grundfunktionen:
+Fingerabdrucksensor, tippen für zurück, klicken wechselt zum Startbildschirm, Doppelklick zeigt den Anwengundsverlauf und nach links oder rechts wischen wechselt zwischen geöffneten Apps."</string>
     <string name="long_pressed_back_home">Lange berühren um auf Startbildschirm zurück</string>
     <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_port_label">Proxy-Port</string>
@@ -2721,8 +2732,8 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="wifi_delete_network">Netwerk entfernen</string>
     <string name="wifi_delete_check_info">Dein Telefon wird diesem Netzwerk</string>
     <string name="wifi_delete_check_info2">nicht mehr länger beitreten</string>
-    <string name="wifi_display_switch_info">"Connect your phone with Miracast enabled devices and project phone's screen onto the device"</string>
-    <string name="wifi_delete_check">entfernen</string>
+    <string name="wifi_display_switch_info">Mit Miracast können Sie den Bildschirm Ihres Telefons auf ein anderes Gerät duplizieren.</string>
+    <string name="wifi_delete_check">Entfernen</string>
     <string name="wifi_delete_cancel">Abbrechen</string>
     <string name="wifi_fail_summary">Falsches Passwort</string>
     <string name="wifi_available_network">WLAN auswählen</string>
@@ -2735,13 +2746,13 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="wifi_display_state">Bei Verwendung von Wireless Display</string>
     <string name="wifi_display_calling">Eingehende Anrufe</string>
     <string name="wifi_display_calling_accept">Eingehende Anrufe anzeigen</string>
-    <string name="wifi_display_calling_reject">Automatisch auflegen</string>
+    <string name="wifi_display_calling_reject">Automatisch ablehnen</string>
     <string name="wifi_display_calling_pause">Wireless Display pausieren</string>
     <string name="wifi_display_message">Ankommende Nachricht</string>
     <string name="wifi_display_message_accept">Zeige Benachrichtigung</string>
     <string name="wifi_display_message_reject">Blockiere Benachrichtigung</string>
     <string name="wifi_notify_open_networks">Netzwerkhinweis</string>
-    <string name="wifi_wps_summary">Stellen Sie sicher ob der Rourer WPS unterstützt und eingeschalten ist</string>
+    <string name="wifi_wps_summary">Stellen Sie sicher ob der Router WPS unterstützt und eingeschalten ist</string>
     <string name="wifi_notify_open_networks_summary">Immer benachrichtigen, wenn öffentliches Netzwerk verfügbar</string>
     <string name="wifi_scan_always_available_summary">Standortdienst und andere Apps nach Netzwerken suchen lassen, auch wenn Wi-Fi ausgeschalten ist.</string>
     <string name="wifi_setting_sleep_policy_title">WLAN im Ruhemodus aktiviert lassen</string>
@@ -2755,7 +2766,7 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="wifi_eap_identity">Identität</string>
     <string name="wifi_ip_settings">Statische IP</string>
     <string name="wifi_static_ip">Statische IP</string>
-    <string name="wifi_disabled_wifi_cannot_connect">Fehler bein verbinden mit dem Netzwerk</string>
+    <string name="wifi_disabled_wifi_cannot_connect">Fehler beim verbinden mit dem Netzwerk</string>
     <string name="wifi_advanced_titlebar">Erweiterte Einstellungen</string>
     <string name="wifi_setting_frequency_band_auto">Automatisch</string>
     <string name="wifi_setting_frequency_band_5g">Nur 5GHz</string>
@@ -2822,11 +2833,11 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="zen_by_user">Manuell</string>
     <string name="zen_calls_mode">Diese Anrufer erlauben</string>
     <string name="zen_rule_default_name_sub">%1$s - %2$s</string>
-    <string name="utouch_custom">Hometaste Anpassung</string>
-    <string name="utouch_custom_press_two">Hometaste Doppelklick</string>
+    <string name="utouch_custom">Hometaste anpassen</string>
+    <string name="utouch_custom_press_two">Doppelklick</string>
     <string name="utouch_custom_left_right">Nach links oder rechts wischen</string>
     <string name="utouch_custom_long_press">Hometaste lang gedrückt halten</string>
-    <string name="utouch_custom_long_light_press">Hometaste lang gedrückt halten</string>
+    <string name="utouch_custom_long_light_press">Hometaste lange berühren</string>
     <string name="utouch_unuse">Keine</string>
     <string name="utouch_app_history">Appverlauf</string>
     <string name="utouch_off_screen">Display aus</string>
@@ -2866,7 +2877,7 @@ Doppelklick für Appsverlauf ansehen und nach links oder rechts wischen zwischen
     <string name="share_scanner_title">QR Code scannen</string>
     <string name="share_no_wifi">Derzeit nicht mit WiFi verbunden</string>
     <string name="lenovo_title">Lenovo</string>
-    <string name="screen_back_home">Displaytasten Zurück, Home, Zuletzt verwenden</string>
+    <string name="screen_back_home">Navigationstasten im Bildschirm</string>
     <string name="screen_back_home_category">Nach aktivieren, Telefon neu starten</string>
     <string name="sunshine_category_summary">Die Helligkeit wird bei starken Sonnenlicht automatisch verbessert</string>
     <string name="sunshine_disable_category_summary">Helligkeitsverbesserung ist deaktiviert, wenn adaptive Helligkeit ausgeschalten ist.</string>
@@ -2953,6 +2964,7 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="fingerprint_not_recognized">Nicht erkannt</string>
     <string name="save">Speichern</string>
     <string name="lock_settings_picker_fingerprint_message">Alternative Methode für die Displaysperre auswählen</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">Zu viele fehlerhafte Versuche. Bitte versuche es in %d Sekunden erneut.</string>
     <string name="volume_up">Lauter</string>
     <string name="volume_down">Leiser</string>
     <string name="press_volume_up">Lautstärketaste lauter drücken</string>
@@ -2961,8 +2973,8 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="calibration_fail">Kalibrierung fehlgeschlagen, bitte erneut versuchen</string>
     <string name="calibration_des">iPhone Headset für die Kalibrierung nicht unterstützt</string>
     <string name="completed">Ok</string>
-    <string name="headphone_calibration">Headset Kalibrierung</string>
-    <string name="statistics_show_time">statistics show time</string>
+    <string name="headphone_calibration">Headset-Kalibrierung</string>
+    <string name="statistics_show_time">Displayzeit Statistik</string>
     <string name="battery_duration_time">Ungefähr %s</string>
     <string name="battery_usage_status_section">Akkuverbrauch</string>
     <string name="software_battery_usage_title">Apps</string>
@@ -3022,7 +3034,7 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="overheat_notify_button">Stop</string>
     <string name="overheat_notify_summary_single_app">Akkuverbrauch von %1$s</string>
     <string name="overheat_notify_summary_multi_apps">Akkuverbrauch von %1$s %2$s</string>
-    <string name="overheat_notify_kill_app">It is force stopped for power consumption secretly</string>
+    <string name="overheat_notify_kill_app">Wegen Akkuverbrauch im Hintergrund wurde die App gestoppt.</string>
     <string name="overheat_app_summary">Hoher Akkuverbrauch im Hintergrund</string>
     <string name="multi_card_management_title">SIM Karten</string>
     <string name="notifications_status_bar_title">Benachr. &amp; Statusleiste</string>
@@ -3088,7 +3100,7 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="zen_mode_title">Nicht stören</string>
     <string name="zen_mode_switch">Manueller Start</string>
     <string name="ringtone_settings">Klingeltöne</string>
-    <string name="ringtone_call_title">Klingeltöne Telefon</string>
+    <string name="ringtone_call_title">Anrufklingeltöne</string>
     <string name="ringtone_message_title">SMS Töne</string>
     <string name="ringtone_notification_title">Benachrichtigungen</string>
     <string name="sounds_headset">Kopfhörer Geräuschunterdrückung</string>
@@ -3145,7 +3157,7 @@ Deine gespeicherten Fingerabdrücke werden ebenfalls von diesem Gerät entfernt 
     <string name="development_off_btn">Entwickleroptonen deaktivieren</string>
     <string name="menu_back_on">Menu &amp; Back</string>
     <string name="breathe_light_on">Breathe &amp; Light</string>
-    <string name="location_mode_title_define">Standort Modus</string>
+    <string name="location_mode_title_define">Standort-Modus</string>
     <string name="op_allow">Erlauben</string>
     <string name="op_deny">Ablehen</string>
     <string name="op_ask">Immer fragen</string>
