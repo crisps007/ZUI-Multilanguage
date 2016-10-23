@@ -65,7 +65,7 @@
     <string name="net_monthly_balance_sheet_date">Monatliches Startdatum</string>
     <string name="net_notice_desc">Verbrauchstipps</string>
     <string name="net_notice_title">2G/3G/4G Verbrauchsstatistik</string>
-	<string name="net_ok">Ist mir bekannt</string>
+	<string name="net_ok">OK</string>
 	<string name="net_ok_and_start_calibrator">Kalibrieren</string>
     <string name="net_package_des1">Bitte einstellen</string>
     <string name="net_settings">Volumeneinstellung</string>
@@ -136,7 +136,7 @@ der Datenvolumen überschritten ist"</string>
     <string name="net_operators_u_1">Unicom 2G</string>
     <string name="net_operators_u_3">Unicom 4G</string>
     <string name="netfilter_notice_textview_desc">Die App benötigt %1$s um mit dem Internet verbinden zu können. Berechtigung erlauben?</string>
-	<string name="netfilter_notice_button_yes">Ist mir bekannt</string>
+	<string name="netfilter_notice_button_yes">OK</string>
 	<string name="netfilter_notice_button_no">Abbrechen</string>
     <string name="netfilter_notice_item_desc">Bei deaktivierung, kann die App nicht mehr zu %1$s verbinden</string>
     <string name="netfilter_notice_item_desc_mobile">Daten</string>

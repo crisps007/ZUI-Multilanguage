@@ -663,7 +663,7 @@ Damit du dein Smartphone weiterhin verwenden kannst, musst du es auf die Werksei
     <string name="android_beam_disabled_summary">Nicht verfügbar, weil NFC deaktiviert ist</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"Wenn diese Funktion aktiviert ist, kannst du App-Inhalte auf ein anderes NFC-fähiges Gerät beamen, indem du die Geräte dicht nebeneinander hältst. Du kannst beispielsweise Browserseiten, YouTube-Videos und Kontakte beamen.
-\u0009
+
 Halte die Geräte einfach dicht nebeneinander, am besten Rückseite an Rückseite, und berühre den Bildschirm. Die App bestimmt, was übertragen wird."</string>
     <string name="nsd_quick_toggle_title">Diensterkennung</string>
     <string name="nsd_quick_toggle_summary">Ermöglicht Apps auf anderen Geräten, Apps auf diesem Gerät zu erkennen</string>	
@@ -1555,7 +1555,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss die "<b>SD-Kart
     <string name="vpn_no_ca_cert">(Server nicht überprüfen)</string>
     <string name="vpn_no_server_cert">(vom Server erhalten)</string>
     <string name="vpn_cancel">Abbrechen</string>
-    <string name="vpn_save">Speichern</string>
+    <string name="vpn_save">OK</string>
     <string name="vpn_connect">Verbinden</string>
     <string name="vpn_edit">VPN-Profil bearbeiten</string>
     <string name="vpn_connect_to">Mit %s verbinden</string>

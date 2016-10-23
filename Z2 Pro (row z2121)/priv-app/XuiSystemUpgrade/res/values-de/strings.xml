@@ -30,7 +30,7 @@
 	<string name="alert_mobilenet_content">Download über mobile Daten</string>
 	<string name="alert_encryption_title">SD-Karten-Verschlüsselung</string>
 	<string name="alert_download_fail">Download fehlgeschlagen</string>
-	<string name="alert_ok">Ist mir bekannt</string>
+	<string name="alert_ok">OK</string>
 	<string name="alert_cancel">Abbrechen</string>
 	<string name="alert_install_title">Update installieren</string>
 	<string name="alert_install_content">Neustarten und Update installieren?</string>
@@ -127,7 +127,7 @@
 	<string name="ota_remain_time_h">h</string>
 	<string name="utouch_update_title">U-Touch aktualisiert</string>
 	<string name="utouch_update_msg">Für 0,5s berühren um auf den Home-Bildschirm zu gelangen! Sie können in den Einstellungen &quot;U-Touch&quot; abschalten.</string>
-	<string name="utouch_update_confirm">Ist mir bekannt</string>
+	<string name="utouch_update_confirm">OK</string>
 	<string name="ota_click_refresh">Aktualisieren</string>
 	<string name="st_version"> Stabil </string>
 	<string name="dev_version"> Entwickler </string>

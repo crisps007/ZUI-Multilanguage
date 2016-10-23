@@ -51,7 +51,7 @@
 	<string name="title_create_font_name">Name der neuen Schriftart</string>
 	<string name="hint_create_font_name">Schriftart-Name muss kürzer als 10 Zeichen sein</string>
 	<string name="switch_skin_app_label">Skin anwenden</string>
-	<string name="switch_skin_style_label">Ist mir bekannt</string>
+	<string name="switch_skin_style_label">OK</string>
 	<string name="switch_skin_tips">Wechseln des Skins ändert die Hinterundfarbe des Systems und z.B. bei Einstellungen, Kontakte, SMS, etc</string>
 	<string name="switch_skin_result_success">Skin erfolgreich angewendet</string>
 	<string name="switch_skin_result_fail">Skin-Anwendung fehlgeschlagen</string>

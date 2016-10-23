@@ -451,7 +451,7 @@
 	<string name="com_lenovo_lsf_pay_upay_service2_text">Service-Telefon: 4000010733</string>
 	<string name="com_lenovo_lsf_pay_tgt_error">Die aktuelle Anmeldung ist abgelaufen, bitte neu einloggen</string>
 	<string name="com_lenovo_lsf_pay_vb_center">V-Geld Center</string>
-	<string name="com_lenovo_lsf_pay_lenovouser_btn_ok">Ist mir bekannt</string>
+	<string name="com_lenovo_lsf_pay_lenovouser_btn_ok">OK</string>
 	<string name="com_lenovo_lsf_pay_no_such_permission_phone_state">Keine Zugriff auf Telefon, gehen Sie bitte zu Einstellungen -&gt; "Anwendungs Manager" -&gt; %1$s-&gt; "Berechtigungen" und erteilen Sie die Berechtigung.</string>
 	<string name="com_lenovo_lsf_pay_no_such_permission_location">Keine Zugriff auf Standort, gehen Sie bitte zu Einstellungen -&gt; "Anwendungs Manager" -&gt; %1$s-&gt; "Berechtigungen" und erteilen Sie die Berechtigung.</string>
 	<string name="com_lenovo_lsf_pay_cur_app_name">Aktueller App-Name</string>

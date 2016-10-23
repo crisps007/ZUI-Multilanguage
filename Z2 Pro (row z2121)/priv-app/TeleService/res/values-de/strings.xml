@@ -286,7 +286,7 @@
 	<string name="phone_accounts">Anrufkonten</string>
 	<string name="phone_accounts_make_calls_with">Telefonieren mit</string>
 	<string name="phone_accounts_make_sip_calls_with">SIP-Anrufe tätigen mit</string>
-	<string name="phone_accounts_ask_every_time">Erst fragen</string>
+	<string name="phone_accounts_ask_every_time">Immer fragen</string>
 	<string name="phone_accounts_settings_header">Einstellungen</string>
 	<string name="phone_accounts_choose_accounts">Konten auswählen</string>
 	<string name="phone_accounts_selection_header">Telefonkonten</string>
@@ -824,7 +824,7 @@ Der nächste Zeitraum beginnt in %2$d Tagen (%3$s)."</string>
 	<string name="fdn_menu_item_cancel">Abbrechen</string>
 	<string name="fdn_button_add_text">Hinzufügen</string>
 	<string name="fdn_add_actionbar_title_cancel">Abbrechen</string>
-	<string name="fdn_add_actionbar_title_ok">Ist mir bekannt</string>
+	<string name="fdn_add_actionbar_title_ok">OK</string>
 	<string name="call_forward_all">Weiterleitung aller eingehenden Anrufe</string>
 	<string name="call_forward_custom">Benutzerdefiniert</string>
 	<string name="alert_title_cancelCF">Aufheben aller Rufumleitungen</string>
@@ -862,7 +862,7 @@ Der nächste Zeitraum beginnt in %2$d Tagen (%3$s)."</string>
 	<string name="labelCFDeactAll">Alle Deaktivieren</string>
 	<string name="callind_multi_sim">SUBS-Einstellungen</string>
 	<string name="phone_account_settings">Telefonkontoeinstellungen</string>
-	<string name="fdn_alert_btn">Ist mir bekannt</string>
+	<string name="fdn_alert_btn">OK</string>
 	<string name="accessibility_overflow">overflowbutton</string>
 	<string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
 	<string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/GSM/WCDMA/CDMA/EVDO</string>

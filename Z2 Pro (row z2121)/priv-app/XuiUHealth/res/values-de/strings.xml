@@ -36,7 +36,7 @@
     <string name="btn_finish_text">Fertig</string>
     <string name="btn_retry_text">Nochmal</string>
     <string name="can_not_open_setting_interface">GPS manuell aktivieren</string>
-    <string name="cancel">Abrrechen</string>
+    <string name="cancel">Abbrechen</string>
     <string name="cancel_dialog">Fortsetzen</string>
     <string name="circle_of_Friends">Highlights</string>
     <string name="climb_floor_hight">Überwundene Höhen</string>
@@ -233,7 +233,7 @@ Bitte bewegen Sie ihren Finger nicht."</string>
     <string name="hr_measuring_object_instead_of_finger">PULSEOX_OBJECT_INSTEAD_FINGER</string>
     <string name="hr_peace_100_150">Tachkardie, kann durch Sport, körperliche Arbeit oder Freude bzw. Angst verursacht werden. Bitte messen Sie noch einmal.</string>
     <string name="hr_peace_40_60">Ihr Ruhepuls ist niedrig, auf Dauer kann sich Symptome des Unwohlseins wie etwa Herzklopfen oder Engegefühl in der Brust einstellen. Bedarf sorgsamer Beobachtung und Behandlung falls nötig.</string>
-    <string name="hr_peace_60_100">Normaler Puls, regelmäßige Übungen helfen bei der Erhaktung der Gesundheit.</string>
+    <string name="hr_peace_60_100">Normaler Puls, regelmäßige Übungen helfen bei der Erhaltung der Gesundheit.</string>
     <string name="hr_peace_dialog_100_150_description">Tachykardie kann durch Sport, körperliche Arbeit oder Freunde bzw. Angst verursacht werden. Bei häufigerem Auftreten, ggf. zusammen mit Schwindelgefühlen, geben Sie sich bitte umgehend in medizinische Behandlung.</string>
     <string name="hr_peace_dialog_40_60_description">Bradykardie, bei sie häufig in Verbindung mit Schmerzen in der Brust und Herzpochen einhergeht, ersuchen Sie um ärztliche Hilfe, </string>
     <string name="hr_peace_dialog_60_100_description">Normaler Puls mit 60 bis 80 Herzschlägen pro Minute; bei Frauen etwas schneller.</string>

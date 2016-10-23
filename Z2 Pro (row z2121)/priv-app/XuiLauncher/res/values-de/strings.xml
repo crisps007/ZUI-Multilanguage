@@ -484,7 +484,7 @@ Versuchen Sie Folgendes:
 	<string name="editmode_remove_dummy_icon_info">Möchten Sie \"%1$s\" wirklich löschen?</string>
 	<string name="wallpaper_scroll_info">Info</string>
 	<string name="wallpaper_scroll_msg">Ersetzen Sie den Bildschirmhintergrund nach Belieben innen von der Bildschirmkante aus, sodass Sie ihn verschieben können.</string>
-	<string name="wallpaper_scroll_ok">Ist mir bekannt</string>
+	<string name="wallpaper_scroll_ok">OK</string>
 	<string name="wallpaper_scroll_last_picture">Dies ist das letzte Bild.</string>
 	<string name="wallpaper_scroll_download_picture">Sie können im Motiv-Center weitere Bilder herunterladen.</string>
 	<string name="dummy_app_search_failure">Es konnten keine Informationen für \"%1$s\" abgerufen werden</string>
@@ -763,7 +763,7 @@ Versuchen Sie Folgendes:
 	<string name="btn_ok_allow_resume_3g_download">Jetzt herunterladen</string>
 	<string name="more_game">Mehr Spiele</string>
 	<string name="gamecenter_freeze">Spiele-Center reagiert nicht</string>
-	<string name="dummy_installed_app_ok">Ist mir bekannt</string>
+	<string name="dummy_installed_app_ok">OK</string>
 	<string name="dummy_notinstalled_app_cancel">Abbrechen</string>
 	<string name="dummy_widget_to_update">Verbinden sie dieses Widget mit \"%1$s\" </string>
 	<string name="dummy_app_download_sd_unmounted">Externer Speicher ist nicht eingehängt!</string>

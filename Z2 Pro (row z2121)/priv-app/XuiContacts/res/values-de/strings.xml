@@ -383,7 +383,7 @@ Grund: %s"</string>
     <string name="menu_show_missed_only">Nur Verpasste anzeigen</string>
     <string name="menu_show_voicemails_only">Nur Sprachnachrichten anzeigen</string>
     <string name="menu_show_all_calls">Alle anzeigen</string>
-    <string name="add_contact">Zu Kontakten hinzufügen</string>
+    <string name="add_contact">Kontakt hinzufügen</string>
     <string name="add_2sec_pause">Pause um 2 Sekunden verlängern.</string>
     <string name="add_wait">Wartezeit verlängern</string>
     <string name="menu_select_account">Konto auswählen</string>
@@ -867,7 +867,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="contacts_menu_item_add_blacklist">Zur Blockierliste hinzufügen</string>
     <string name="contacts_menu_item_remove_blacklist">Aus Blockierliste entfernen</string>
     <string name="contacts_menu_item_write">Wählen sie eine Markierung für diese Nummer</string>
-    <string name="contacts_menu_item_cancel">Abbrechen</string>
+    <string name="contacts_menu_item_cancel">Abbruch</string>
     <string name="callog_menu_item_card2">Anruf über SIM 2</string>
     <string name="callog_menu_item_card_other">Anruf über %s</string>
     <string name="callog_menu_item_sms">SMS senden</string>
@@ -933,7 +933,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="location_display_toggle">Zeige Sitz</string>
     <string name="location_custom">Benutzerdef. Sitz</string>
     <string name="add_custom_location">Benutzerdef.</string>
-    <string name="actionbar_button_cancel">Abbrechen</string>
+    <string name="actionbar_button_cancel">Abbruch</string>
     <string name="actionbar_button_ok">OK</string>
     <string name="location_null_toast">Bitte vollständige Ortsangaben eingeben</string>
     <string name="call_setting_ignore_first_ring">Erstes Klingeln bei unbekannten Nummern unterdrücken</string>
@@ -980,7 +980,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="preference_export_contact_message">Platz zum Abspeichern von %s Kontakten übrig, Weiter?</string>
     <string name="contact_editor_ring">Rufton</string>
     <string name="contact_editor_group">Gruppe</string>
-    <string name="contact_editor_actionbar_cancel">Abbrechen</string>
+    <string name="contact_editor_actionbar_cancel">Abbruch</string>
     <string name="contact_detail_fav_toast">Favoriten</string>
     <string name="contact_detail_cancle_fav_toast">Aus Favoriten entfernen</string>
     <string name="callDetailsDurationBell">%s Sekunde(n) geklingelt</string>
