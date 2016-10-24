@@ -1,21 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="com_lenovo_lsf_lenovouser_progess0"> %1$s</string>
-	<string name="com_lenovo_lsf_lenovouser_progess1"> %1$s".</string>
-	<string name="com_lenovo_lsf_lenovouser_progess2"> %1$s..</string>
-	<string name="com_lenovo_lsf_lenovouser_progess3"> %1$s... </string>
-	<string name="com_lenovo_lsf_lenovouser_subordinate_progess0"> %1$s</string>
-	<string name="com_lenovo_lsf_lenovouser_subordinate_progess1"> %1$s".</string>
-	<string name="com_lenovo_lsf_lenovouser_subordinate_progess2"> %1$s..</string>
-	<string name="com_lenovo_lsf_lenovouser_subordinate_progess3"> %1$s... </string>
 	<string name="com_lenovo_lsf_fm">ZUK</string>
 	<string name="com_lenovo_lsf_lenovouser_app_name">Lenovo Konto</string>
 	<string name="com_lenovo_lsf_lenovouser_myShenQi">Meine ZUK</string>
 	<string name="com_lenovo_lsf_lenovouser_cloud_name">Cloud-services</string>
-	<string name="com_lenovo_lsf_lenovouser_btn_at">\@</string>
-	<string name="com_lenovo_lsf_lenovouser_btn_com">.com</string>
-	<string name="com_lenovo_lsf_lenovouser_btn_cn">.cn</string>
-	<string name="com_lenovo_lsf_lenovouser_btn_net">.net</string>
 	<string name="com_lenovo_lsf_lenovouser_btn_ok">OK</string>
 	<string name="com_lenovo_lsf_lenovouser_btn_cancel">Cancel</string>
 	<string name="com_lenovo_lsf_lenovouser_btn_complete">Fertig</string>
@@ -269,7 +257,6 @@
 	<string name="com_lenovo_lsf_string_setting_password">Passwort festlegen</string>
 	<string name="com_lenovo_lsf_logout_promptmessage_text">Aktuelles Konto verlassen?</string>
 	<string name="com_lenovo_lsf_logout_confirm">Schließen</string>
-	<string name="com_lenovo_lsf_phone_area_code">+86</string>
 	<string name="com_lenovo_lsf_pay_app_name">V-Geld Center</string>
 	<string name="com_lenovo_lsf_pay_charge_record">Kontingent Aufladen</string>
 	<string name="com_lenovo_lsf_pay_record">Kontingent Kaufen</string>
@@ -480,7 +467,7 @@
 	<string name="payeco_keyboard_pre">Vorherige Seite</string>
 	<string name="payeco_pay_cvn2">CSC eingeben</string>
 	<string name="payeco_pay_validate">Ablauf Datum:</string>
-	<string name="app_name">Kamera</string>
+	<string name="app_name">ZUK Konto</string>
 	<string name="unlock_get_account_error">System-Konto Fehler</string>
 	<string name="unlock_password_error">Passwort-Fehler</string>
 	<string name="unlock_parse_tgt_error">Fehler bei TGT-Service</string>

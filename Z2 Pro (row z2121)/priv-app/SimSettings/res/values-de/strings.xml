@@ -407,7 +407,8 @@
     <string name="load_networks_progress">Suche läuft...</string>
     <string name="empty_networks_list">Keine Netzwerke gefunden</string>
     <string name="network_query_error">Fehler bei der Netzwerksuche</string>
-    <string name="register_on_network">"Registrierung in %s läuft..."</string>
+    <string name="register_on_network">"Registriere in 
+%s..."</string>
     <string name="not_allowed">Ihre SIM-Karte unterstützt keine Verbindung mit diesem Netzwerk.</string>
     <string name="connect_later">Momentan kann keine Verbindung zu diesem Netzwerk aufgebaut werden. Bitte versuchen Sie es später erneut.</string>
     <string name="registration_done">Im Netzwerk registriert.</string>

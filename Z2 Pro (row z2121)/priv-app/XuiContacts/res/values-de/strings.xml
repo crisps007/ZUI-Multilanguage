@@ -661,7 +661,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="contact_editor_prompt_zero_accounts">Ihr neuer Kontakt wird nicht gesichert. Konto für die Online-Sicherung von Kontakten hinzufügen?</string>
     <string name="contact_editor_prompt_one_account">Ihr neuer Kontakt wird mit %1$s synchronisiert.</string>
     <string name="contact_editor_prompt_multiple_accounts">Sie können Ihren neuen Kontakt mit einem der folgenden Konten synchronisieren. Welches Konto möchten Sie verwenden?</string>
-    <string name="contact_editor_title_new_contact">Kontakt hinzufügen</string>
+    <string name="contact_editor_title_new_contact">Neuer Kontakt</string>
     <string name="contact_editor_title_existing_contact">Kontakt bearbeiten</string>
     <string name="keep_local">Lokal speichern</string>
     <string name="add_account">Konto hinzufügen</string>

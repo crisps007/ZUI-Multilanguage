@@ -257,8 +257,10 @@
 	<string name="audio_mode_earpiece">Handy-Kopfhörer</string>
 	<string name="audio_mode_wired_headset">Kabelgebundenes Headset</string>
 	<string name="audio_mode_bluetooth">Bluetooth</string>
-	<string name="wait_prompt_str">Folgende Töne senden?\n</string>
-	<string name="pause_prompt_str">Töne werden gesendet.\n</string>
+	<string name="wait_prompt_str">"Folgende Töne senden?
+"</string>
+	<string name="pause_prompt_str">"Töne werden gesendet.
+"</string>
 	<string name="send_button">Senden</string>
 	<string name="pause_prompt_yes">Ja</string>
 	<string name="pause_prompt_no">Nein</string>
@@ -374,7 +376,8 @@
 	<string name="vm_changed">Mailboxnummer geändert.</string>
 	<string name="vm_change_failed">Die Mailbox-Nummer konnte nicht geändert werden.\nFalls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung.</string>
 	<string name="fw_change_failed">Die Weiterleitungsnummer konnte nicht geändert werden.\nFalls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung.</string>
-	<string name="fw_get_in_vm_failed">Die aktuellen Einstellungen der Weiterleitungsnummern konnten nicht abgerufen und gespeichert werden.\nMöchten Sie trotzdem zum neuen Anbieter wechseln?</string>
+	<string name="fw_get_in_vm_failed">"Die aktuellen Einstellungen der Weiterleitungsnummern konnten nicht abgerufen und gespeichert werden.
+Möchten Sie trotzdem zum neuen Anbieter wechseln?"</string>
 	<string name="no_change">Es wurden keine Änderungen vorgenommen.</string>
 	<string name="sum_voicemail_choose_provider">Mailbox-Dienst auswählen</string>
 	<string name="voicemail_default">Mobilfunkanbieter</string>
@@ -458,9 +461,9 @@
 	<string name="throttle_time_frame">Zeitraum des Datenverbrauchs</string>
 	<string name="throttle_rate">Richtlinien zur Datenrate</string>
 	<string name="throttle_help">Weitere Informationen</string>
-	<string name="throttle_status_subtext">%1$s (%2$d٪) of %3$s period maximum
-Next period starts in %4$d days (%5$s)</string>
-	<string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
+	<string name="throttle_status_subtext">"%1$s (%2$d٪) des maximalen Zeitraums von %3$s.
+Der nächste Zeitraum beginnt in %4$d Tagen (%5$s)"</string>
+	<string name="throttle_data_usage_subtext">%1$s (%2$d٪) des maximalen Zeitraums von %3$s</string>
     <string name="throttle_data_rate_reduced_subtext">"Maximum von %1$s wurde überschritten.
 Datenrate wurde auf %2$d kbit/s reduziert."</string>
     <string name="throttle_time_frame_subtext" formatted="false">"%1$d % des Zyklus sind verstrichen. 
@@ -632,7 +635,8 @@ Der nächste Zeitraum beginnt in %2$d Tagen (%3$s)."</string>
 	<string name="fdn_enable_puk2_requested">Falsches Passwort. PIN2 ist jetzt gesperrt. Ändern Sie PIN2, um es erneut zu versuchen.</string>
 	<string name="puk2_requested">Passwort falsch. SIM-Karte ist jetzt gesperrt. Bitte PUK2 eingeben.</string>
 	<string name="puk2_blocked">PUK2 wurde endgültig gesperrt.</string>
-	<string name="pin2_attempts">\n"Sie haben noch %d Versuche.</string>
+	<string name="pin2_attempts">"
+Sie haben noch %d Versuche."</string>
 	<string name="pin2_unblocked">PIN2 nicht mehr gesperrt</string>
 	<string name="pin2_error_exception">Netzwerk- oder SIM-Kartenfehler</string>
 	<string name="doneButton">Fertig</string>
@@ -723,9 +727,12 @@ Der nächste Zeitraum beginnt in %2$d Tagen (%3$s)."</string>
 	<string name="managed_roaming_title_sub">Managed Roaming (SUB%d)</string>
 	<string name="managed_roaming_dialog_content">Netzwerk mit eingeschränktem Service gefunden. Möchten Sie eine Netzwerksuche initiieren?</string>
 	<string name="ota_title_activate">Ihr Telefon aktivieren</string>
-	<string name="ota_touch_activate">Zur Aktivierung Ihres Telefondienstes muss ein spezieller Anruf getätigt werden. \n\nWählen Sie \"Aktivieren\" und folgen Sie der Anleitung zur Aktivierung Ihres Telefons.</string>
+	<string name="ota_touch_activate">"Zur Aktivierung Ihres Telefondienstes muss ein spezieller Anruf getätigt werden.
+
+Wählen Sie \"Aktivieren\" und folgen Sie der Anleitung zur Aktivierung Ihres Telefons."</string>
 	<string name="ota_hfa_activation_title">Wird aktiviert...</string>
-	<string name="ota_hfa_activation_dialog_message">Der mobile Datendienst wird jetzt auf Ihrem Telefon aktiviert.\n\nDies kann bis zu 5 Minuten dauern.</string>
+	<string name="ota_hfa_activation_dialog_message">"Der mobile Datendienst wird jetzt auf Ihrem Telefon aktiviert.
+Dies kann bis zu 5 Minuten dauern."</string>
 	<string name="ota_skip_activation_dialog_title">Aktivierung überspringen?</string>
 	<string name="ota_skip_activation_dialog_message">Wenn Sie die Aktivierung überspringen, können Sie keine Anrufe tätigen oder sich mit mobilen Datennetzwerken verbinden (Sie können sich allerdings mit WLAN-Netzwerken verbinden). Bis Sie Ihr Telefon aktivieren, werden Sie bei jedem Einschalten zur Aktivierung aufgefordert.</string>
 	<string name="ota_skip_activation_dialog_skip_label">Überspringen</string>
@@ -737,7 +744,10 @@ Der nächste Zeitraum beginnt in %2$d Tagen (%3$s)."</string>
 	<string name="ota_progress">Telefon wird programmiert…</string>
 	<string name="ota_failure">Telefon konnte nicht programmiert werden.</string>
 	<string name="ota_successful">Ihr Telefon ist jetzt aktiviert. Es kann bis zu 15 Minuten dauern, bis der Dienst gestartet wird.</string>
-	<string name="ota_unsuccessful">Ihr Telefon wurde nicht aktiviert. \nSuchen Sie einen Bereich auf, in dem Sie besseren Empfang haben, zum Beispiel in der Nähe eines Fensters oder unter freiem Himmel. \n\nVersuchen Sie es bitte noch einmal oder rufen Sie den Kundenservice an.</string>
+	<string name="ota_unsuccessful">"Ihr Telefon wurde nicht aktiviert.
+Suchen Sie einen Bereich auf, in dem Sie besseren Empfang haben, zum Beispiel in der Nähe eines Fensters oder unter freiem Himmel.
+
+Versuchen Sie es bitte noch einmal oder rufen Sie den Kundenservice an."</string>
 	<string name="ota_spc_failure">ZU VIELE SPC-FEHLER</string>
 	<string name="ota_call_end">Zurück</string>
 	<string name="ota_try_again">Erneut versuchen</string>

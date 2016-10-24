@@ -125,7 +125,7 @@ der Datenvolumen überschritten ist"</string>
     <string name="net_error_code4">Fehler beim aktualisieren der Übereinstimmungsregeln</string>
     <string name="net_error_code5">Betreiberfehler</string>
     <string name="net_error_code6">Parameterfehler</string>
-    <string name="net_error_code7">Erfolgreich ausgeführt (synchronisieren, erwerb Synchronisationsvorlage &amp; Synchronisationsparameter, etc.)</string>
+    <string name="net_error_code7">Erfolgreich ausgeführt (synchronisieren, Erwerb Synchronisationsvorlage &amp; Synchronisationsparameter, etc.)</string>
     <string name="net_error_code8">Unbekannter Fehler</string>
     <string name="net_error_code9">Error in setting designated location</string>
     <string name="net_traffic_correct_sucess2">Daten diesen Monat verbraucht</string>
@@ -250,7 +250,7 @@ der Datenvolumen überschritten ist"</string>
     <string name="package_limit_left_notify">Nach Änderung des verbleibenden Volumens, wird die autom. Kalibierung ausgeschalten</string>
     <string name="package_left_set_notify">Rest Volumen kann nicht größer als das Volumen des Datentarifs sein.</string>
     <string name="package_limit_left_settings">Verbleidendes Volumen</string>
-    <string name="package_no_unit_notify">Wert zu klein ist, bitte erneut eingeben</string>
+    <string name="package_no_unit_notify">Wert zu klein, bitte erneut eingeben</string>
     <string name="traffic_limit_set">Bitte Datenvolumen eingeben</string>
     <string name="net_used_traffic_brief">Details Datenverbrauch</string>
     <string name="net_netfilter_back">Beenden Sie die Netzwerküberwachung</string>
