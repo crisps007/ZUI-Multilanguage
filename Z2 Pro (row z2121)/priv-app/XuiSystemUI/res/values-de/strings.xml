@@ -838,7 +838,7 @@ Zudem sind Sie zu einem VPN verbunden(\"%3$s\"). Ihr VPN-Dienst-Anbieter können
 	<string name="xui_status_bar_sound_recorder_going_in_lockscreen">Aufnahme</string>
 	<string name="xui_status_bar_flashlight">Taschenlampe ist an. Tippen zum Ausschalten</string>
 	<string name="xui_status_bar_flashlight_in_lockscreen">Taschenlampe ist an</string>
-	<string name="notification_data_flow_today_str">Daten verbraucht: %s</string>
+	<string name="notification_data_flow_today_str">Daten verbr.: %s</string>
 	<string name="notification_data_flow_left_str">Daten übrig: %s</string>
 	<string name="notification_data_flow_exceed_str">Überschritten um: %s</string>
 	<string name="lenovo_guard_notification">Falls das Telefon verloren geht oder gestohlen wird, bitte senden Sie es zu mir.</string>
