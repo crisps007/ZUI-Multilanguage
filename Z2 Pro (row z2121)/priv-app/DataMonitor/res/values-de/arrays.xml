@@ -75,9 +75,9 @@
         <item>SIM 2</item>
     </string-array>
     <string-array name="operator_name">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
+        <item>Standard</item>
+        <item>Standard</item>
+        <item>Standard</item>
         <item></item>
     </string-array>
     <string-array name="traffic_auto_correct_time">
@@ -86,38 +86,11 @@
         <item>7 Tage</item>
         <item>Automatische Kalibierung ausschalten</item>
     </string-array>
+    <string-array name="traffic_provinces_code">
+        <item>10</item>
+    </string-array>	
     <string-array name="traffic_provinces">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Tianjing</item>
-        <item>Chongqing</item>
-        <item>Hebei</item>
-        <item>Henan</item>
-        <item>Shanxi</item>
-        <item>Shandong</item>
-        <item>Inner Mongoria</item>
-        <item>Liaoning</item>
-        <item>Jilin</item>
-        <item>Heilongjiang</item>
-        <item>Jiangsu</item>
-        <item>Zhejiang</item>
-        <item>Anhui</item>
-        <item>Fujian</item>
-        <item>Jiangxi</item>
-        <item>Hubei</item>
-        <item>Hunan</item>
-        <item>Guangdong</item>
-        <item>Guangxi</item>
-        <item>Hainan</item>
-        <item>Sichuan</item>
-        <item>Guizhou</item>
-        <item>Tibet</item>
-        <item>Yunnan</item>
-        <item>Shanxi</item>
-        <item>Gansu</item>
-        <item>Qinghai</item>
-        <item>Ningxia</item>
-        <item>Xinjiang</item>
+        <item>Standard</item>
     </string-array>
     <string-array name="month_remaining1_bt">
         <item>Ok</item>
