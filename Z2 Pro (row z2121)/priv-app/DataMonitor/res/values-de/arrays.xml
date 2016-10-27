@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="traffic_month_sheet_date">
-        <item>1 Tag</item>
-        <item>2 Tag</item>
-        <item>3 Tag</item>
-        <item>4 Tag</item>
-        <item>5 Tag</item>
-        <item>6 Tag</item>
-        <item>7 Tag</item>
-        <item>8 Tag</item>
-        <item>9 Tag</item>
-        <item>10 Tag</item>
-        <item>11 Tag</item>
-        <item>12 Tag</item>
-        <item>13 Tag</item>
-        <item>14 Tag</item>
-        <item>15 Tag</item>
-        <item>16 Tag</item>
-        <item>17 Tag</item>
-        <item>18 Tag</item>
-        <item>19 Tag</item>
-        <item>20 Tag</item>
-        <item>21 Tag</item>
-        <item>22 Tag</item>
-        <item>23 Tag</item>
-        <item>24 Tag</item>
-        <item>25 Tag</item>
-        <item>26 Tag</item>
-        <item>27 Tag</item>
-        <item>28 Tag</item>
-        <item>29 Tag</item>
-        <item>30 Tag</item>
-        <item>31 Tag</item>
+        <item>1. Tag</item>
+        <item>2. Tag</item>
+        <item>3. Tag</item>
+        <item>4. Tag</item>
+        <item>5. Tag</item>
+        <item>6. Tag</item>
+        <item>7. Tag</item>
+        <item>8. Tag</item>
+        <item>9. Tag</item>
+        <item>10. Tag</item>
+        <item>11. Tag</item>
+        <item>12. Tag</item>
+        <item>13. Tag</item>
+        <item>14. Tag</item>
+        <item>15. Tag</item>
+        <item>16. Tag</item>
+        <item>17. Tag</item>
+        <item>18. Tag</item>
+        <item>19. Tag</item>
+        <item>20. Tag</item>
+        <item>21. Tag</item>
+        <item>22. Tag</item>
+        <item>23. Tag</item>
+        <item>24. Tag</item>
+        <item>25. Tag</item>
+        <item>26. Tag</item>
+        <item>27. Tag</item>
+        <item>28. Tag</item>
+        <item>29. Tag</item>
+        <item>30. Tag</item>
+        <item>31. Tag</item>
     </string-array>
     <string-array name="traffic_correct_cycle_time">
         <item>Täglich</item>
@@ -54,7 +54,7 @@
     <string-array name="correct_result">
         <item>Kalibrierung abgeschlossen</item>
         <item>Ungültiger Platz</item>
-        <item>Rückruf abfrage wurde nicht eingerichtet</item>
+        <item>Rückrufabfrage wurde nicht eingerichtet</item>
         <item>Die letzte Abfrage dieser SIM wurde nicht abgeschlossen</item>
         <item>Provinz wurde noch nicht benannt</item>
         <item>Betreiber Information wurde nicht eingerichtet</item>
