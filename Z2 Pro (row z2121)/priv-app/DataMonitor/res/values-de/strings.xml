@@ -14,7 +14,7 @@
     <string name="app_list_subtitle">Nach deaktivieren dieser Option, können keine Apps sich zu %1$s verbinden.</string>
     <string name="net_netfilter_sys_service">Systemdienste</string>
     <string name="net_netfilter_delete_app">Deinstallierte Apps</string>
-    <string name="net_netfilter_note">"Verbrauchte Daten diesen Monat: %1$s.
+    <string name="net_netfilter_note">"Verbrauchte Daten diesen Monat: %1$s
  Verbrauch der Mobilfunkdaten wird vom System überwacht und kann evtl. mit den Daten von Ihrem Betreiber abweichen."</string>
     <string name="net_netfilter_sort_title">Sortieren</string>
     <string name="net_netfilter_sort_name">Nach Name sortieren</string>
@@ -24,18 +24,18 @@
     <string name="wlan">WLAN</string>
     <string name="airplane_mode_on">Bitte Flugmodus ausschalten</string>
     <string name="no_simcard">Keine SIM Karte vorhanden oder verfügbar</string>
-    <string name="slot_view_package_remain">Verbleibend %s</string>
+    <string name="slot_view_package_remain">%s verbleibend</string>
     <string name="slot_view_package_excessive">%s überschritten</string>
     <string name="slot_view_adjust_title">Paket Kalibrieren</string>
     <string name="slot_view_adjust_remind">Kalibieren antippen</string>
     <string name="slot_view_adjust_working">Kalibriere</string>
     <string name="slot_view_latest_adjust">Letzte Kalibrierungszeit %1$s (%2$s)</string>
-    <string name="slot_view_data_used_today">"%1$s
- Heute verbraucht(%2$s)"</string>
+    <string name="slot_view_data_used_today">"%1$s%2$s
+Heute verbr."</string>
     <string name="slot_view_internet_app_count">"%1$s
- eingeschränkte Apps"</string>
+Apps"</string>
     <string name="slot_view_date_format">dd/M</string>
-    <string name="usage_info">Info monatlicher Verbrauch</string>
+    <string name="usage_info">Verbrauchsstatistik</string>
     <string name="default_data_card_summary"> (Standard SIM)</string>
     <string name="average_daily_available">Täglich %s verfügbar</string>
     <string name="restrict_all">Alle verbieten</string>
@@ -47,7 +47,7 @@
     <string name="button_cancel">Abbrechen</string>
     <string name="button_ok">OK</string>
 	<string name="button_continue">Fortsetzen</string>
-    <string name="input_package_flow">Datenvolumen eingben</string>
+    <string name="input_package_flow">Datenvolumen eingeben</string>
     <string name="correcting_info">Abfrage bei Netzbetreiber...</string>
     <string name="correct_flow_successful">SIM %d Kalibrierung erfolgreich</string>
     <string name="correct_flow_failed">SIM %d Kalibrierung fehlgeschlagen</string>
@@ -150,11 +150,11 @@ Datenvolumen überschritten ist"</string>
     <string name="no_set_package_title">Datenvolumen nocht nicht eingestellt</string>
     <string name="sim1_prefix">SIM 1</string>
     <string name="sim2_prefix">SIM 2</string>
-    <string name="net_correct_complete">Abgeschlossen</string>
+    <string name="net_correct_complete">Ok</string>
     <string name="package_settings_title">Tarifeinstellung</string>
 	<string name="lesafe_no_longer_remind">Nicht festgelegt</string>
     <string name="package_limit_settings">Datenvolumen</string>
-	<string name="sheet_date_settings">Datum für Zurücksetzen der Nutzungszyklen</string>
+	<string name="sheet_date_settings">Beginn Datentarif</string>
     <string name="package_limit_settings_dialog_title">Datenvolumen des Tarifs einstellen</string>
     <string name="packge_manager_title">Tarifverwaltung</string>
     <string name="moth_available">Restvolumen für diesen Monat:</string>
@@ -210,7 +210,7 @@ Datenvolumen überschritten ist"</string>
 	<string name="net_correct_cancel">Abbrechen</string>
     <string name="net_correct_setting_desc">In Übereinstimmung mit den eingestellten Parameter müssen Sie die Einstellungen Ihrer SIM-Karte für die Anpassung der Betreiberdaten angeben</string>
     <string name="net_correct_config_desc">Automatisch Datennutzung anpassen.</string>
-	<string name="button_finish">Abschließen</string>
+	<string name="button_finish">OK</string>
     <string name="net_daily_notice_number_desc2">Tägliche Datennutzung Warner</string>
 	<string name="net_daily_notice_number_desc">Limit für tägliche Datennutzung</string>
     <string name="before_dawn">vor der Morgendämmerung</string>
@@ -350,5 +350,5 @@ Hinweis: Betreiberdaten können sich verzögern."</string>
     <string name="net_correct_limit_type">SIM card attribution</string>
     <string name="float_window_dialog_msg_disable">Schwebendes Datenüberwachunsgsfenster schließen? Kann in den Schnelleinstellungen wieder geöffnet werden.</string>
     <string name="correct_dummy_confirm_msg">SMS zur Abfrage des Datenverkehrs wird an den Netzbetreiber gesendet. Da dies eine virtuelle SIM-Karte ist, können Kosten entstehen, oder die Kalibrierung kann fehlschlagen. Kalibrierung fortsetzen?</string>
-    <string name="net_dummy_correct_setting_desc">Diese virtuelle SIM-Karte unterstützt keine Kalibrierung per SMS. Automatische Kalibrierung wird beendet.</string>	
+    <string name="net_dummy_correct_setting_desc">Diese virtuelle SIM-Karte unterstützt keine Kalibrierung per SMS. Automatische Kalibrierung deaktiviert.</string>	
 </resources>

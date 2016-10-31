@@ -25,7 +25,7 @@
     <string name="cancel_deny_all">Abbrechen</string>
     <string name="deny_all_title">Alles ablehnen</string>
     <string name="deny_all_alert">Wird dieses Recht deaktiviert, hat keine App Berechtigung auf %1$s. %2$s kann möglicherweise nicht Ordnungsgemäß ausgeführt werden. Fortfahen?</string>
-	<string name="dot">.</string>
+	<string name="dot">,</string>
     <string name="not_found_note">Nicht gefunden. Bitte überprüfen sie die Richtlinie.</string>
     <string name="restore_default">Zurück auf Standardeinstellungen</string>
     <string name="restore_alert_msg">Berechtigung %1$s von allen Apps werden auf Standard zurückgesetzt</string>
