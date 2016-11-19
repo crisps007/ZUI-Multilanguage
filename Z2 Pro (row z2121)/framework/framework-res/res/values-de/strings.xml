@@ -1337,7 +1337,7 @@ Der Energiesparmodus wird automatisch deaktiviert, wenn Ihr Gerät aufgeladen wi
     <string name="China_Unicom">China Unicom</string>
     <string name="China_Telecom">China Telecom</string>
     <string name="select">Auswählen</string>
-    <string name="font_style_default">Systemstandard</string>
+    <string name="font_style_default">Schriftart (Standard)</string>
     <string name="permdesc_accessThemeService">Erlaubt eine App den Zugriff auf den Theme-Dienst. Dies sollte für normale Apps nicht notwendig sein.</string>
     <string name="permlab_readThemes">Lesen Sie die Theme-Informationen</string>
     <string name="permdesc_readThemesDesc">Erlaubt eine App Ihr aktuell verwendetes Theme zu lesen</string>
@@ -1348,7 +1348,6 @@ Der Energiesparmodus wird automatisch deaktiviert, wenn Ihr Gerät aufgeladen wi
     <string name="theme_reset_notification_title">Theme zurücksetzen</string>
     <string name="theme_reset_notification_body">Theme wurde wegen mehrfaches Abstürzen zurückgesetzt.</string>
     <string name="theme_upgrading_resources">Aktualisiere Theme</string>
-    <string name="font_style_default">Schriftart (Standard)</string>
     <string name="deny_perm">Ablehnen</string>
     <string name="enable_permission">Offen</string>
     <string name="cancel_it">Abbrechen</string>
