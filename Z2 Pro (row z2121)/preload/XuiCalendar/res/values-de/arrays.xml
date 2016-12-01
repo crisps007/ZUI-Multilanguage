@@ -3,11 +3,11 @@
   <string-array name="alarm_time_labels">
     <item>Nicht erinnern</item>
     <item>Bei Fälligkeit</item>
-    <item>5 Minuten voher</item>
-    <item>15 Minuten voher</item>
-    <item>30 Minuten voher</item>
-    <item>1 Stunde voher</item>
-    <item>1 Tag voher</item>
+    <item>5 Minuten vorher</item>
+    <item>15 Minuten vorher</item>
+    <item>30 Minuten vorher</item>
+    <item>1 Stunde vorher</item>
+    <item>1 Tag vorher</item>
   </string-array>
   <string-array name="recurrence_freq_lables">
     <item>einmalig</item>
@@ -340,44 +340,24 @@
     <item>Schwein</item>
   </string-array>
   <string-array name="lunar_month_num">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
   </string-array>
   <string-array name="solar_term_array">
-    <item>Mäßige Kälte</item>
-    <item>Große Kälte</item>
-    <item>Frühlingsanfang</item>
-    <item>Regenwasser</item>
-    <item>Erwachen der Insekten</item>
     <item>Frühlingstagundnachtgleiche</item>
-    <item>Helle Klarheit</item>
-    <item>Saatregen</item>
     <item>Sommeranfang</item>
-    <item>Ährenbildung</item>
-    <item>Ährenzeit</item>
-    <item>Sommerankunft</item>
-    <item>Kleine Hitze</item>
-    <item>Große Hitze</item>
-    <item>Herbstanfang</item>
-    <item>Ende der Hitze</item>
-    <item>Weißer Tau</item>
     <item>Herbsttagundnachtgleiche</item>
-    <item>Kalter Tau</item>
-    <item>Fallender Reif</item>
-    <item>Winterbeginn</item>
-    <item>Mäßiger Schnee</item>
-    <item>Großer Schnee</item>
-    <item>Winterankunft</item>
+    <item>Winteranfang</item>
   </string-array>
   <string-array name="lunar_daynum_text">
   <!-- diese Zahlen müssen erhalten bleiben, Sie sind Übersetzungen der chinesischen Zahl-Wörter -->
@@ -413,29 +393,29 @@
     <item>30</item>
   </string-array>
   <string-array name="month_number_array">
-    <item>Januar</item>
-    <item>Februar</item>
-    <item>März</item>
-    <item>April</item>
-    <item>Mai</item>
-    <item>Juni</item>
-    <item>Juli</item>
-    <item>August</item>
-    <item>September</item>
-    <item>Oktober</item>
-    <item>November</item>
-    <item>Dezember</item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
   </string-array>
   <string-array name="tens_prefix_array">
   <!-- Zehnerpräfixe müssen erhalten bleiben -->
-    <item>0</item>
-    <item>10</item>
-    <item>20</item>
-    <item>30</item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
   </string-array>
   <string-array name="month_name_array">
-    <item>Monat</item>
-    <item>Wintermonat</item>
-    <item>Mondmonat</item>
+    <item> </item>
+    <item> </item>
+    <item> </item>
   </string-array>
 </resources>

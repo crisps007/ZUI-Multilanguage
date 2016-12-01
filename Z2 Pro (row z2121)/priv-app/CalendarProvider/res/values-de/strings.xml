@@ -14,5 +14,4 @@
     <string name="debug_tool_email_sender_picker">Standard App auswählen</string>
     <string name="debug_tool_email_subject">Kalenderdatenbank verbunden</string>
     <string name="debug_tool_email_body">Kalenderdatenbank inklusive aller Termine und persönlicher Daten verbunden. Bitte Vorsicht walten lassen.</string>
-    <item type="string" name="APKTOOL_DUMMY_e">false</item>
 </resources>
