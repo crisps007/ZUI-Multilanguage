@@ -25,7 +25,7 @@
         <item quantity="one">1 Stunde voraus</item>
     </plurals>
     <plurals name="Nhours_description_after">
-        <item quantity="other">vor %d Stunden</item>
-        <item quantity="one">vor 1 Stunde</item>
+        <item quantity="other">%d Stunden zurück</item>
+        <item quantity="one">1 Stunde zurück</item>
     </plurals>
 </resources>

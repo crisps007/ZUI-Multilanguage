@@ -47,9 +47,9 @@
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>" veruscht zu lokalisieren"</item>
-        <item>" veruscht zu lokalisieren"</item>
-        <item>" veruscht zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
         <item>" versucht die Vibration zu benutzen"</item>
         <item>" versucht die Kontakte zu lesen"</item>
         <item>" versucht die Kontakte zu schreiben"</item>
@@ -57,9 +57,9 @@
         <item>" versucht die Anrufliste zu ändern"</item>
         <item>" versucht den Kalender zu lesen"</item>
         <item>" versucht den Kalender zu ändern"</item>
-        <item>" versucht zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
         <item>" versucht eine Benachrichtigung zu hinterlassen"</item>
-        <item>" veruscht zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
         <item>" versucht zu telefonieren"</item>
         <item>" versucht SMS zu lesen"</item>
         <item>" versucht eine SMS zu schreiben"</item>
@@ -71,7 +71,7 @@
         <item>" versucht eine ICC SMS zu lesen"</item>
         <item>" versucht eine ICC SMS zu schreiben"</item>
         <item>" versucht die Einstellung zu ändern"</item>
-        <item>" veruscht an oberste Positon zu ziehen"</item>
+        <item>" versucht an oberste Positon zu ziehen"</item>
         <item>" versucht auf Benachrichtigungen zuzugreifen"</item>
         <item>" versucht auf die Kamera zuzugreifen"</item>
         <item>" versucht eine Tonaufnahme"</item>
@@ -88,8 +88,8 @@
         <item>" versucht die Benachrichtigungslautstärke zu benutzen"</item>
         <item>" versucht die Bluetoothlautstärke zu benutzen"</item>
         <item>" versucht das Telefon aktiv zu lassen"</item>
-        <item>" veruscht zu lokalisieren"</item>
-        <item>" veruscht zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
+        <item>" versucht Ihren Standort zu lokalisieren"</item>
         <item>" versucht die Verbrauchsstatistik zu erhalten"</item>
         <item>" versucht das Mikrofon stumm zuschalten"</item>
         <item>" is trying to toast window"</item>
@@ -118,7 +118,7 @@
         <item>" versucht eine Sprachnachricht hinzu zufügen"</item>
         <item>" versucht ein SIP zu benützen"</item>
         <item>" versucht zu telefonieren"</item>
-        <item>" veruscht einen Fingeradruck zu verwenden"</item>
+        <item>" versucht einen Fingeradruck zu verwenden"</item>
         <item>" versucht einen Sensor zu benützen"</item>
         <item>" versucht den Mobilfunkdienst zu lesen"</item>
         <item>" versucht einen falschen Standort zu verwenden"</item>

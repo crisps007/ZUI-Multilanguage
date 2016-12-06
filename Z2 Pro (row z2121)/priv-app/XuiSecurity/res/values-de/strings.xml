@@ -100,7 +100,7 @@
     <string name="cleanmgr_fm_deepclean_confirm_clean_dialog_title">Ausgewählte Elemente löschen?</string>
     <string name="cleanmgr_fm_ok">OK</string>
     <string name="cleanmgr_fm_cancel">Abbrechen</string>
-    <string name="cleanmgr_fm_deepclean_tab_imagemanage">Gallerie</string>
+    <string name="cleanmgr_fm_deepclean_tab_imagemanage">Galerie</string>
     <string name="cleanmgr_fm_deepclean_title_cleaning">Säubere...</string>
     <string name="cleanmgr_fm_deepclean_tab_cache">Cache</string>
     <string name="cleanmgr_fm_deepclean_tab_remant">Deinstallationsreste</string>
@@ -150,7 +150,7 @@
     <string name="cleanmgr_fm_dialog_deepclean_tempfile_item2label">Größe:</string>
     <string name="cleanmgr_fm_image">Foto(s)</string>
     <string name="cleanmgr_fm_this_image">Dieses Foto</string>
-    <string name="cleanmgr_fm_gallery_title">Gallerie</string>
+    <string name="cleanmgr_fm_gallery_title">Galerie</string>
     <string name="cleanmgr_fm_gallery_select_all">Alle Auswählen</string>
     <string name="cleanmgr_fm_gallery_un_select_all">Alle Abwählen</string>
     <string name="cleanmgr_fm_select_image">Reinigung</string>

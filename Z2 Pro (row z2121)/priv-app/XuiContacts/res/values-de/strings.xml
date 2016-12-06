@@ -174,6 +174,7 @@
     <string name="listCustomView">Kontakte in benutzerdef. Ansicht</string>
     <string name="listSingleContact">Einzelner Kontakt</string>
     <string name="dialog_new_contact_account">Neuen Kontakt unter Konto erstellen</string>
+    <string name="manage_sim_contacts">SIM-Kontakte verwalten</string>
     <string name="export_to_sim">Auf SIM-Karte exportieren</string>
     <string name="import_from_sim">Von SIM-Karte importieren</string>
     <string name="import_from_sim_number">Kontakte von SIM-Karte importieren #%d</string>
@@ -194,8 +195,8 @@
     <string name="fail_reason_not_supported">Das Format wird nicht unterstützt.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Abrufen der Metadaten aus angegebenen vCards nicht möglich</string>
     <string name="fail_reason_failed_to_read_files">Eine oder mehrere Dateien können nicht importiert werden (%s).</string>
-    <string name="exporting_vcard_finished_title">Export von %s abgeschlossen</string>
-    <string name="exporting_vcard_canceled_title">Export von %s abgebrochen</string>
+    <string name="exporting_vcard_finished_title">%s exportiert</string>
+    <string name="exporting_vcard_canceled_title">Exportierung %s abgebrochen</string>
     <string name="exporting_contact_list_title">Kontaktdaten werden exportiert...</string>
     <string name="exporting_contact_list_message">Ihre Kontaktdaten werden in \"%s\" exportiert...</string>
     <string name="composer_failed_to_get_database_infomation">Datenbankinformationen konnten nicht abgerufen werden.</string>
@@ -208,15 +209,15 @@ Grund: %s"</string>
     <string name="importing_vcard_description">%s wird importiert...</string>
     <string name="reading_vcard_failed_title">Lesen der vCard-Daten nicht möglich</string>
     <string name="reading_vcard_canceled_title">Lesen von vCard-Daten abgebrochen</string>
-    <string name="importing_vcard_finished_title">Import der vCard %s abgeschlossen</string>
+    <string name="importing_vcard_finished_title">vCard %s importiert</string>
     <string name="importing_vcard_canceled_title">Import von %s abgebrochen</string>
-    <string name="vcard_import_will_start_message">%s wird in Kürze importiert.</string>
-    <string name="vcard_import_will_start_message_with_default_name">Die Datei wird in Kürze importiert.</string>
+    <string name="vcard_import_will_start_message">%s wird importiert.</string>
+    <string name="vcard_import_will_start_message_with_default_name">Datei wird importiert.</string>
     <string name="vcard_import_request_rejected_message">Die vCard-Importanfrage wurde abgelehnt. Bitte versuchen Sie es später erneut.</string>
-    <string name="vcard_export_will_start_message">%s wird in Kürze exportiert.</string>
+    <string name="vcard_export_will_start_message">%s wird exportiert.</string>
     <string name="vcard_export_request_rejected_message">Die vCard-Exportanfrage wurde abgelehnt. Bitte versuchen Sie es später erneut.</string>
     <string name="vcard_unknown_filename">Kontakt</string>
-    <string name="caching_vcard_message">Caching der vCard(s) in lokalen temporären Speicher wird durchgeführt. Der eigentliche Import beginnt gleich.</string>
+    <string name="caching_vcard_message">vCard(s) werden zwischengespeichert &amp; importiert.</string>
     <string name="percentage">%s%%</string>
     <string name="vcard_import_failed">Importieren der vCard nicht möglich</string>
     <string name="import_failure_no_file">Keine Dateien auf SD-Karte gefunden</string>
@@ -228,10 +229,10 @@ Grund: %s"</string>
     <string name="import_multiple_vcard_string">Importiere mehrere vCard Dateien</string>
     <string name="import_all_vcard_string">Importiere alle vCard Dateien</string>
     <string name="searching_vcard_message">Suche nach vCard Dateien auf SD-Karte…</string>
-    <string name="caching_vcard_title">Caching läuft...</string>
+    <string name="caching_vcard_title">Zwischenspeichern</string>
     <string name="scanning_sdcard_failed_message">Die SD-Karte konnte nicht gelesen werden. (Grund: %s)</string>
     <string name="progress_notifier_message" formatted="false">%s/%s werden importiert: %s</string>
-    <string name="export_to_sdcard">Auf SD-Karte exportieren</string>
+    <string name="export_to_sdcard">Auf Speicher exportieren</string>
     <string name="display_options_sort_list_by">Sortieren nach</string>
     <string name="display_options_sort_by_given_name">Vorname</string>
     <string name="display_options_sort_by_family_name">Nachname</string>
@@ -241,7 +242,8 @@ Grund: %s"</string>
     <string name="share_visible_contacts">Sichtbare Kontakte teilen</string>
     <string name="dialog_import_export">Kontakte importieren/exportieren</string>
     <string name="dialog_import">Kontakte importieren</string>
-    <string name="share_error">Dieser Kontakt kann nicht geteilt werden.</string>
+    <string name="share_error">"Dieser Kontakt kann nicht geteilt werden."</string>
+    <string name="share_failed">Zuviele Kontakte ausgewählt</string>
     <string name="menu_search">Suchen</string>
     <string name="menu_contacts_filter">Angezeigte Kontakte</string>
     <string name="activity_title_contacts_filter">Angezeigte Kontakte</string>
@@ -271,9 +273,9 @@ Grund: %s"</string>
     <string name="contact_list_new_add_contact">Kürzlich hinzugefügt</string>
     <string name="description_star">Favorit</string>
     <string name="menu_all_contacts">Alle Kontakte</string>
-    <string name="prefer_showonly_havenumber_contact">Kontakte mit Telefonnummer</string>
+    <string name="prefer_showonly_havenumber_contact">Nur Kontakte mit Telefonr. anzeigen</string>
     <string name="prefer_account_filter_save">Speichern</string>
-    <string name="prefer_display_account_contacts">Konto Kontakte auswählen</string>
+    <string name="prefer_display_account_contacts">Konto auswählen</string>
     <string name="simcard_operator_name_cmcc">China Mobile</string>
     <string name="simcard_operator_name_cu">China Unicom</string>
     <string name="simcard_operator_name_ct">China Telecom</string>
@@ -293,7 +295,7 @@ Grund: %s"</string>
     <string name="AssociationTypeOther">Andere</string>
     <string name="AssociationTypeCustom">Benutzerdefiniert</string>
     <string name="AssociationTitle">Verbindung hinzufügen</string>
-    <string name="preferece_xui_confirm_export_message">Ihre Kontakte werden vom System auf die SD-Karte exportiert.</string>
+    <string name="preferece_xui_confirm_export_message">Ihre Kontakte werden auf den Gerätespeicher exportiert.</string>
     <string name="default_sim_card_name_1">SIM 1</string>
     <string name="default_sim_card_name_2">SIM 2</string>
     <string name="default_sim_card_name">SIM-Karte</string>
@@ -325,7 +327,7 @@ Grund: %s"</string>
     <string name="today">Heute</string>
     <string name="menu_memory_status">Speicherstatus</string>
     <string name="memory_status_title">Speicherstatus</string>
-    <string name="memory_status_title_new">Status des Kontaktespeichers</string>
+    <string name="memory_status_title_new">Status Kontaktespeicher</string>
     <string name="importConfirmation_title">Kontakt importieren?</string>
     <string name="ContactMultiImportConfirmation">Ausgewählte Kontakte werden importiert</string>
     <string name="menu_sendTextMessage">SMS senden</string>
@@ -517,7 +519,7 @@ Grund: %s"</string>
     <string name="description_action_menu_remove_star">Aus Favoriten entfernt</string>
     <string name="description_action_menu_add_star">Zu Favoriten hinzugefügt</string>
     <string name="menu_editContact">Bearbeiten</string>
-    <string name="menu_deleteContact">Löschen</string>
+    <string name="menu_deleteContact">Auswählen</string>
     <string name="menu_create_contact_shortcut">Auf Startbildschirm platzieren</string>
     <string name="menu_call">Kontakt anrufen</string>
     <string name="menu_sendSMS">SMS an Kontakt</string>
@@ -529,8 +531,8 @@ Grund: %s"</string>
     <string name="splitConfirmation_title">Kontakt trennen?</string>
     <string name="splitConfirmation">Dieser Kontakt wird in mehrere Kontakte aufgeteilt.</string>
     <string name="menu_joinAggregate">Zusammenführen</string>
-    <string name="titleJoinContactDataWith">Kontakte zusammenführen</string>
-    <string name="blurbJoinContactDataWith">Wählen Sie den Kontakt aus, den Sie mit %s zusammenführen möchten.</string>
+    <string name="titleJoinContactDataWith">Kontakt zusammenführen</string>
+    <string name="blurbJoinContactDataWith">Kontakt %s zusammenführen mit</string>
     <string name="showAllContactsJoinItem">Alle Kontakte anzeigen</string>
     <string name="separatorJoinAggregateSuggestions">Vorgeschlagene Kontakte</string>
     <string name="separatorJoinAggregateAll">Alle Kontakte</string>
@@ -613,7 +615,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="add_organization">Unternehmen hinzufügen</string>
     <string name="event_edit_field_hint_text">Datum</string>
     <string name="group_edit_field_hint_text">Gruppenname</string>
-    <string name="edit_contact">Kontakt bearbeiten</string>
+    <string name="edit_contact">Kontakt ändern</string>
     <string name="aggregation_suggestion_join_dialog_message">Aktuellen Kontakt mit ausgewähltem Kontakt zusammenführen?</string>
     <string name="aggregation_suggestion_edit_dialog_message">Zur Bearbeitung des ausgewählten Kontakts wechseln? Die bisher eingegebenen Informationen werden kopiert.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Kontakt mit gleichem Namen gefunden</string>
@@ -637,8 +639,8 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="contacts_unavailable_create_contact">Neuen Kontakt erstellen</string>
     <string name="contacts_unavailable_add_account">In einem Konto anmelden</string>
     <string name="contacts_unavailable_import_contacts">Kontakte importieren</string>
-    <string name="create_group_dialog_title">Neue Gruppe erstellen</string>
-    <string name="create_group_item_label">Neue Gruppe erstellen</string>
+    <string name="create_group_dialog_title">Neue Gruppe</string>
+    <string name="create_group_item_label">Neue Gruppe</string>
     <string name="delete_group_dialog_message">Soll die Gruppe \"%1$s\" wirklich gelöscht werden? Die Kontakte selbst werden nicht gelöscht.</string>
     <string name="toast_join_with_empty_contact">Geben Sie einen Namen für den Kontakt ein, bevor Sie ihn mit einem anderen Kontakt zusammenführen.</string>
     <string name="copy_text">In Zwischenablage kopieren</string>
@@ -662,11 +664,15 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="contact_editor_prompt_one_account">Ihr neuer Kontakt wird mit %1$s synchronisiert.</string>
     <string name="contact_editor_prompt_multiple_accounts">Sie können Ihren neuen Kontakt mit einem der folgenden Konten synchronisieren. Welches Konto möchten Sie verwenden?</string>
     <string name="contact_editor_title_new_contact">Neuer Kontakt</string>
-    <string name="contact_editor_title_existing_contact">Kontakt bearbeiten</string>
+    <string name="contact_editor_title_existing_contact">Kontakt ändern</string>
     <string name="keep_local">Lokal speichern</string>
     <string name="add_account">Konto hinzufügen</string>
     <string name="add_new_account">Neues Konto hinzufügen</string>
+    <string name="select_all">Alle</string>
+    <string name="btn_ok">Ok</string>
     <string name="btn_cancel">Abbrechen</string>
+    <string name="menu_sendViaSMS">Kontakt via SMS senden</string>
+    <string name="search_bar_hint">Kontake suchen</string>
     <string name="import_stop">Import gestoppt</string>
     <string name="menu_export_database">Datenbankdateien exportieren</string>
     <string name="action_menu_add_new_contact_button">Neuen Kontakt hinzufügen</string>
@@ -717,7 +723,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="tab_recents">Kürzlich</string>
     <string name="tab_all_contacts">Kontakte</string>
     <string name="titleSeparateContactDataWith">Separate Kontakte</string>
-    <string name="combine_progress_message">Führe Kontakte zusammen</string>
+    <string name="combine_progress_message">Kontakt</string>
     <string name="calllog_actionbar_cancel">Abbrechen</string>
     <string name="no_picker_contacts">Keine Kontakte</string>
     <string name="add_starred_contacts">Füge vorgeschlagene Kontakte hinzu</string>
@@ -747,7 +753,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="loacl_group">Lokale Gruppen</string>
     <string name="qq_group">QQ Gruppen</string>
     <string name="wechat_group">WeChat Gruppen</string>
-    <string name="new_group">Neue Gruppe erstellen</string>
+    <string name="new_group">Neue Gruppe</string>
     <string name="accord_to_company">Firma</string>
     <string name="accord_to_citylocation">Sitz</string>
     <string name="accord_to_groupMessage">Gruppen SMS</string>
@@ -760,7 +766,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="multichoice_contacts_limit">Anzahl gewählter Kontakte darf nicht mehr sein als 1500</string>
     <string name="menu_actionbar_selected_items">%s ausgewählt</string>
     <string name="multichoice_no_select_alert">Keine Kontakte ausgewählt.</string>
-    <string name="selected_item_count">%d Element(e) ausgewählt</string>
+    <string name="selected_item_count">%d Kontakt(e)</string>
     <string name="selected_item_count_zero">Auswählen</string>
     <string name="menu_message_group">Gruppennachricht</string>
     <string name="menu_email_group">Gruppen E-mail</string>
@@ -821,12 +827,12 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="info_local_sim_edit_hint_sim">Bitte 11-ziffrige Telefonnummer eingeben</string>
     <string name="info_switch_desp">Sie müssen die lokalen Anrufinformationen bestätigen um dieses Feature nutzen zu können!</string>
     <string name="x_add_to_newcontacts">Neuen Kontakt erstellen</string>
-    <string name="x_add_to_contacts">Zu existierendem Kontakt hinzufügen</string>
+    <string name="x_add_to_contacts">Zu einem Kontakt hinzufügen</string>
     <string name="x_send_mms">SMS senden</string>
     <string name="product_model">"Product Nummer: "</string>
     <string name="system_version">"System Version: "</string>
     <string name="device_info">"Geräteinformation: "</string>
-    <string name="menu_join_dup_contacts">Kontakte zusammenführen</string>
+    <string name="menu_join_dup_contacts">Kontakt zusammenführen</string>
     <string name="title_join_dup_contacts">Kontakte zusammenführen</string>
     <string name="join_dup_contacts">Zusammenführen</string>
     <string name="join_dup_contacts_finish">Beenden</string>
@@ -847,7 +853,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="contacts_settings_title_join_dup_contacts">Kontakte zusammenführen</string>
     <string name="contacts_settings_title_sim_contacts">SIM-Karten Kontakte verwalten</string>
     <string name="contacts_settings_title_contacts_management">Kontakte verwalten</string>
-    <string name="contacts_settings_title_multi_delete_contacts">Doppelte Kontakte löschen</string>
+    <string name="contacts_settings_title_multi_delete_contacts">Mehrere Kontakte löschen</string>
     <string name="contacts_settings_title_default_account">Standardkonto</string>
     <string name="contacts_settings_title_storage_status">Speicher Status</string>
     <string name="menu_contacts_settings">Kontakteinstellungen</string>
@@ -954,7 +960,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="imexport_title">Importiere/Exportiere Kontakte</string>
     <string name="import_title">Import</string>
     <string name="export_title">Export</string>
-    <string name="import_from_sd_tips">Importiere vCard Datei(en) von SD-Karte</string>
+    <string name="import_from_sd_tips">Importiere vCard Datei(en) vom Gerätespeicher</string>
     <string name="export_to_sd_tips">Exportiere Kontakte als vCard</string>
     <string name="advanced_options">Fortgeschrittene Einstellungen</string>
     <string name="user_def_imexport">Benutzerdef. Import/Export</string>
@@ -965,7 +971,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="simcard_contact_none_tips">Keine Kontakte auf SIM-Karte zum Importieren gefunden</string>
     <string name="phone_contact_none_tips">Keine Kontakte im Telefon zum Importieren gefunden</string>
     <string name="air_mode_on_tips">Diese Operation kann im Flugmodus nicht durchgeführt werden</string>
-    <string name="sd_card">SD-Karte</string>
+    <string name="sd_card">Gerätespeicher</string>
     <string name="other_phones">Andere Telefone</string>
     <string name="menu_select_simcard">SIM-Karte auswählen</string>
     <string name="stroage_size">Speichere %s Personen</string>
@@ -1074,9 +1080,9 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="create_contact">Erzeuge %s Kontakte</string>
     <string name="modify_contact">Ändere %s Kontakte</string>
     <string name="operate_contact_type">Lokal</string>
-    <string name="select_contact_location">Speicherort für Kontakte wählen</string>
+    <string name="select_contact_location">Speicherort wählen</string>
     <string name="no_contact_in_db">Keine lokalen Kontakte!</string>
-    <string name="export_to_new">Exportiere nach %s</string>
+    <string name="export_to_new">Exportiere auf %s</string>
     <string name="import_from_new">Importiere von %s</string>
     <string name="default_sim_card_name_contacts">SIM-Karten Kontakte</string>
     <string name="default_sim_card_name_1_contacts">SIM 1 Kontakte</string>
@@ -1105,11 +1111,11 @@ Wählen Sie eine der folgenden Optionen:"</string>
     <string name="info_ip_cancel">Abbrechen</string>
     <string name="launcherActivityLabel_phone">Telefon</string>
     <string name="contacts_tab_label">Kontakte</string>
-    <string name="save">Speichern</string>
-    <string name="actionbar_save">Speichern</string>
-    <string name="menu_generat_qr_code_image">Erzeuge QR-Code</string>
-    <string name="qrcode_item_title_text">Erzeuge QR-Code</string>
-    <string name="qrcode_encode_tips_text">Wischen Sie den QR-Code nach oben um Kontakte hinzuzufügen</string>
+    <string name="save">OK</string>
+    <string name="actionbar_save">OK</string>
+    <string name="menu_generat_qr_code_image">QR-Code erstellen</string>
+    <string name="qrcode_item_title_text">QR-Code</string>
+    <string name="qrcode_encode_tips_text">QR-Code scannen, um diesen Kontakt hinzuzufügen</string>
     <string name="qrcode_shortcut_title_text">Meine QR-Codes</string>
     <string name="menu_contacts_encode">Zum Startbildschirm hinzufügen</string>
     <string name="date_yearstr">Jahr</string>
@@ -1142,10 +1148,10 @@ Tipp: Netzwerk und Standort Service wird benötigt."</string>
     <string name="combine_edit_merge">Zusammenführung bearbeiten</string>
     <string name="combine_manual_merge">Weitere Zusammenführung</string>
     <string name="combine_loading_please_wait">Laden. Bitte warten...</string>
-    <string name="combine_auto_merge_title_no_info">Keine gleichen Kontakten zum Zusammenführen vorhanden</string>
-    <string name="combine_auto_merge_info">Führe %1$s Gruppen Kontakte zusammen</string>
-    <string name="combine_manual_merge_no_info">Keine Kontakte zusammenzuführen</string>
-    <string name="combine_manual_merge_info">Gefundene %1$s Gruppe(n) haben möglicherweise gleiche Kontakte</string>
+    <string name="combine_auto_merge_title_no_info">Keine Personen mit gleichen Kontaktdaten gefunden</string>
+    <string name="combine_manual_merge_no_info">Keine Personen mit ähnlichen Kontaktdaten gefunden</string>
+    <string name="combine_auto_merge_info">%1$s Person(en) mit gleichen Kontaktdaten</string>
+    <string name="combine_manual_merge_info">%1$s Person(en) mit ähnlichen Kontaktdaten</string>
     <string name="combine_succeed">Zusammenführung erfolgreich</string>
     <string name="combine_cancel_merge">Zusammenführung abbrechen?</string>
     <string name="combine_manual_ignore">Ignorieren</string>
@@ -1158,9 +1164,9 @@ Tipp: Netzwerk und Standort Service wird benötigt."</string>
     <string name="combine_socialnetwork">Soziale Netzwerke</string>
     <string name="combine_organization">Organisation</string>
     <string name="associate_sim_missing_other">Andere</string>
-    <string name="combine_auto_merge_button">Führe %1$s Gruppen Kontakte zusammen</string>
+    <string name="combine_auto_merge_button">%1$s Person(en) zusammenführen</string>
     <string name="auto_merge_detail_info">Details anzeigen</string>
-    <string name="combine_message_progress" formatted="false">Führe Kontakte %d/%d zusammen</string>
+    <string name="combine_message_progress" formatted="false">Zusammenführen %d/%d</string>
     <string name="google_account">Google</string>
     <string name="contact_edit_only_read_title">Schreibgeschützter Kontakt</string>
     <string name="calls_data_is_updating">Daten werden aufgefrischt, bitte warten...</string>
@@ -1184,7 +1190,7 @@ Tipp: Netzwerk und Standort Service wird benötigt."</string>
     <string name="contact_editor_Storage_Location">Speicherort</string>
     <string name="contact_editor_actionbar_edit">Bearbeiten</string>
     <string name="contact_editor_actionbar_finish">Fertig</string>
-    <string name="contact_editor_actionbar_title">Kontakt bearbeiten</string>
+    <string name="contact_editor_actionbar_title">Kontakt ändern</string>
     <string name="call_yymmdd_date">%3$s-%2$s-%1$s</string>
     <string name="call_mmdd_date">%2$s-%1$s</string>
     <string name="call_thisweekday_date">Diese Woche</string>

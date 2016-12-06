@@ -17,20 +17,20 @@
     <string name="no_sdcard">SD Karte nicht gefunden</string>
     <string name="wallperviewsetlockscreenandwallpaper">Für beides festlegen</string>
     <string name="wallperviewsetting">Wird verwendet...</string>
-    <string name="enter_scg_wallpaper">Gallerie ansehen</string>
+    <string name="enter_scg_wallpaper">Galerie ansehen</string>
     <string name="xuilauncher_app_name">Desktop</string>
     <string name="home_settings">Startseite Einstellungen</string>
     <string name="workspace_loop_settings_title">Loop</string>
     <string name="auto_addshortcut_settings_title">Automatisch Verknüpfung erstellen</string>
     <string name="change_theme_title">Neues Theme anwenden</string>
     <string name="enable_activeicon_title">Dynamische Symbole anzeigen</string>
-    <string name="gallery_wallpaper">Gallerie</string>
+    <string name="gallery_wallpaper">Galerie</string>
     <string name="locksrceen_everyday_push">Tägliche empfehlen</string>
     <string name="everyday_push">Weitere Einstellungen</string>
     <string name="loading">Wird geladen...</string>
     <string name="wallpaper_name">Name Hintergrund</string>
     <string name="download">Herunterladen</string>
-    <string name="setting_lock_screen">Verwenden</string>
+    <string name="setting_lock_screen">OK</string>
     <string name="more">Mehr</string>
     <string name="click_preview">Antippen für Vorschau</string>
     <string name="cancel">Abbrechen</string>
@@ -58,7 +58,7 @@
     <string name="selected_item_default">Hintergrund auswählen</string>
     <string name="selected_item_num">Ausgewählt</string>
     <string name="selected">Auswählen</string>
-    <string name="selected_item">Ausgewählt</string>
+    <string name="selected_item" />
     <string name="delete_menu_one_title">Hintergrund löschen?</string>
     <string name="delete_menu_one_more_title">%s Hintergründe löschen?</string>
     <string name="new_preview_fail_msg">Netzwerkfehler, bitte wiederholen</string>
@@ -81,10 +81,10 @@
     <string name="notification_and_lock">Statusleiste &amp; Sperrbildschirm</string>
     <string name="notification_and_priority">Priorität</string>
     <string name="show_power_percent_title">Akku in Prozent</string>
-    <string name="superscript_manager_title">Zählermarken für Ungelesenes</string>
+    <string name="superscript_manager_title">Zählermarken</string>
     <string name="loading_applist">Wird geladen...</string>
     <string name="high_priority_explain_text">Bei Aktivierung, erscheinen Hinweise im Infocenter und Banner Erinnerungen.</string>
-    <string name="open_Photo">Gallerie</string>
+    <string name="open_Photo">Galerie</string>
     <string name="wallpaper_not_editing">System Hintergrund kann nicht gelöscht werden</string>
     <string name="notification_access_title">Andere Geräte Benachrichtigung</string>
     <string name="manage_notification_access_title">Benachrichtigungszugriff</string>
@@ -101,7 +101,7 @@
  2.WeChat Benachrichtigung einschalten
  3.WeChat Mitteilungen nicht stumm geschalten ist"</string>	
     <string name="red_packets_dialog_button">In Ordnung</string>
-    <string name="notification_pulse_title">Benachrichtigungslicht</string>
+    <string name="notification_pulse_title">Benachrichtigungs-LED</string>
     <string name="enable_charge_pulse_title">LED beim Laden</string>
     <string name="enable_notification_pulse_title">LED bei Benachrichtigung</string>
     <string name="notification_scene_title">Benachrichtigung auf Smart-Watch</string>
@@ -109,7 +109,7 @@
     <string name="font_recommend_table">Empfehlung</string>
     <string name="font_local_table">Lokal</string>
     <string name="font_download_button">Download</string>
-    <string name="font_apply_btn">Verwenden</string>
+    <string name="font_apply_btn">OK</string>
     <string name="font_detailed_all">Mehr</string>
     <string name="font_detailed_retract">Weniger</string>
     <string name="font_delete_btn">Löschen</string>
@@ -127,7 +127,7 @@
     <string name="font_wifi_to_mobile_network">Download angehalten. Wechsel von WLAN zu Mobilfunkdaten</string>
     <string name="font_download_use_mobile_network">Download fortfahren vebraucht Ihren Datentarif</string>
     <string name="font_not_editing">System Schriftart kann nicht gelöscht werden</string>
-    <string name="permlab_seeAllExternal">Zeige alle Downloadinhalte auf der SD Karte</string>
+    <string name="permlab_seeAllExternal">Zeige alle Downloadinhalte im Speicher</string>
     <string name="controlcenter_mmchat_article_title">Wechsel zwischen den WeChat Nachrichten</string>
     <string name="controlcenter_mmchat_article_task_title">Zeige die letzten WeChat Nachrichten</string>
     <string name="controlcenter_mmchat_article_floatwin_title">WeChat Antwort überspringen</string>

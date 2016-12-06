@@ -33,16 +33,16 @@
         <item quantity="one">Sprachnachricht</item>
     </plurals>
     <plurals name="selected_calllog_item_counts">
-        <item quantity="other">%d Elemente</item>
-        <item quantity="one">%d Element</item>
+        <item quantity="other">%d Kontakte</item>
+        <item quantity="one">%d Kontakt</item>
     </plurals>
     <plurals name="group_member_number">
         <item quantity="other">%d Personen</item>
         <item quantity="one">%d Person</item>
     </plurals>
     <plurals name="selected_edit_calllog_item_counts">
-        <item quantity="other">%dElemente</item>
-        <item quantity="one">%dElement</item>
+        <item quantity="other">%d Anrufe</item>
+        <item quantity="one">%d Anruf</item>
     </plurals>
     <plurals name="call_calllog_DurationBells">
         <item quantity="other">Klingelte für %s Sekunden</item>

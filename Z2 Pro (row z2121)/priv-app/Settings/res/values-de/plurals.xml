@@ -53,8 +53,8 @@
         <item quantity="one">%d app provides conditions</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d Apps haben den Speicher in den letzten %2$s verbraucht.</item>
-        <item quantity="one">1 App hat den Speicher in den letzten %2$s verbraucht.</item>
+        <item quantity="other">%1$d Apps in %2$s</item>
+        <item quantity="one">1 App in %2$s</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d Fingerabdrücke eingerichtet</item>
