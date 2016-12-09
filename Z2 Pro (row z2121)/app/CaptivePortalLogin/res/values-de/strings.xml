@@ -3,9 +3,9 @@
     <string name="app_name">CaptivePortalLogin</string>
     <string name="action_use_network">Dieses Netzwerk verwenden</string>
     <string name="action_do_not_use_network">Dieses Netwerk nicht verwenden</string>
-    <string name="action_bar_label">In das Netzwerk einloggen</string>
-    <string name="ssl_error_warning">Sicherheitsprobleme ein einloggen in das Netzwerk.</string>
-    <string name="ssl_error_example">For example, the login page may not belong to the organization shown.</string>
+    <string name="action_bar_label">Im Netzwerk anmelden</string>
+    <string name="ssl_error_warning">Sicherheitsprobleme beim Einloggen in das Netzwerk.</string>
+    <string name="ssl_error_example">Die Login-Seite gehört z.B. nicht zur Organisation.</string>
     <string name="ssl_error_continue">Trotzdem via Browser fortfahren</string>
     <string name="wifi_portal_cancel_text">Abbrechen</string>
     <string name="wifi_portal_complete_text">Komplett</string>

@@ -321,7 +321,7 @@ Bitte einen anderen Finger verwenden."</string>
     <string name="bluetooth_show_received_files">Empfangene Dateien anzeigen</string>
     <string name="device_picker">Bluetooth-Gerät auswählen</string>
     <string name="bluetooth_permission_request">Bluetooth-Berechtigungsanfrage</string>
-    <string name="bluetooth_ask_enablement">Eine App fordert die Berechtigung zum Aktivieren von Bluetooth für dieses Gerät an.</string>
+    <string name="bluetooth_ask_enablement">Die App möchte Bluetooth aktivieren.</string>
     <string name="bluetooth_ask_discovery">Eine App versucht, Ihr Telefon für %1$d Sekunden für andere Bluetooth-Geräte sichtbar zu machen.</string>
     <string name="bluetooth_ask_lasting_discovery">Eine App versucht, dein Telefon für andere Bluetooth-Geräte sichtbar zu machen. Du kannst diese Einstellung später in den Bluetooth-Einstellungen ändern.</string>
     <string name="bluetooth_ask_start_broadcast">Für %1$s soll die Bluetooth-Übertragung aktiviert werden, um mit anderen Geräten in der Nähe zu kommunizieren. Du kannst dies später in den Bluetooth-Einstellungen ändern.</string>

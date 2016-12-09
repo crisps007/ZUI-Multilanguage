@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="defaultname">Carkit</string>
-    <string name="process" />
     <string name="bluetooth_remember_choice">Nicht mehr nachfragen</string>
     <string name="dun_notif_ticker">Bluetooth DUN Verbindungsanfrage</string>
     <string name="dun_notif_title">Sitzungsschlüssel-Anfrage für DUN</string>
@@ -22,8 +20,8 @@
     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s möchte auf Ihre Ordner und Dateien zugreifen. Zugriff auf %2$s erlauben?</string>
     <string name="map_acceptance_dialog_title">%1$s möchte auf Ihre Ordner im Telefon zugreifen. Zugriff auf %2$s erlauben?</string>
     <string name="map_acceptance_dialog_header">Telefon Ordner Zugriff</string>
-    <string name="map_session_key_dialog_title">Type session key for %1$s</string>
-    <string name="map_session_key_dialog_header">Bluetooth session key required</string>
+    <string name="map_session_key_dialog_title">Sitzungsschlüssel für %1$s</string>
+    <string name="map_session_key_dialog_header">Bluetooth Sitzungsschlüssel benötigt</string>
     <string name="map_acceptance_timeout_message">Das Zeitlimit für die Annahme der Verbindung mit %1$s wurde überschritten.</string>
     <string name="map_authentication_timeout_message">Das Zeitlimit für die Authentifizierung mit %1$s wurde überschritten.</string>
     <string name="map_notif_ticker">Bluetooth Verbindungsanfrage</string>

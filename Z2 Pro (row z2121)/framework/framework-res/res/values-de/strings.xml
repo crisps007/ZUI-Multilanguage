@@ -26,9 +26,10 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Fingerabdruck-Symbol</string>
     <string name="month_day_year" formatted="false">%-e. %B %Y</string>
-    <string name="time_of_day" formatted="false">%H:%M:%S</string>
-    <string name="date_and_time" formatted="false">%d.%m.%Y, %H:%M:%S</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="date_and_time" formatted="false">%-e. %b %Y, %-l:%M:%S %p</string>
     <string name="date_time">%1$s, %2$s</string>
+    <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>	
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
