@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="endByCount">
-        <item quantity="other">；Insgesaml %d mal wiederholt</item>
+        <item quantity="other">；Insgesamt %d mal wiederholt</item>
         <item quantity="one">；1 mal wiederholt</item>
     </plurals>
     <plurals name="daily">

@@ -3,7 +3,7 @@
 	<string name="app_name">MusicFX</string>
 	<string name="no_effects">Effekte nicht verfügbar</string>
 	<string name="eq_dialog_title">Equalizer</string>
-	<string name="headset_plug">Für diese Effekte benötigen Sie Kopfhörer.</string>
+	<string name="headset_plug">Für Effekte Kopfhörer einstecken.</string>
 	<string name="bass_boost_strength">Bassverstärkung</string>
 	<string name="virtualizer_strength">Surround-Sound</string>
 	<string name="setup">Einrichtung</string>

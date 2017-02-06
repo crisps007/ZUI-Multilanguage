@@ -15,7 +15,7 @@
 	<string name="notification">Benachrichtigungston</string>
 	<string name="pick_from_music">Musik wählen</string>
 	<string name="pick_from_recorder">Aufnahme wählen</string>
-	<string name="null_string"></string>
+    <string name="null_string" />
 	<string name="no_ringtone">Keine Klingeltöne</string>
 	<string name="no_music">Keine Musik</string>
 	<string name="no_record">Keine Aufnahmen</string>

@@ -30,14 +30,14 @@
 	<string name="font_preview_letters">AaBbCcDd</string>
 	<string name="theme_installed_notification_title">%s installiert</string>
 	<string name="theme_installed_notification_text">Design erfolgreich installiert</string>
-	<string name="menu_item_get_more_themes">Hole mehr</string>
+	<string name="menu_item_get_more_themes">Mehr themes</string>
 	<string name="get_more_description">Sie können mehr Themen unter den folgenden Links bekommen:</string>
 	<string name="get_more_app_not_available">App nicht verfügbar</string>
 	<string name="get_more_entry_play_store">Play Store</string>
 	<string name="get_more_entry_cm_wiki">Mehr Info im CM-Wiki</string>
 	<string name="designed_for_cm11">Konzipiert für CM11</string>
-	<string name="theme_switch_dark_open_message">Einstellung von %1$s</string>
-	<string name="theme_switch_dark_close_message">Einstellung von %1$s</string>
+	<string name="theme_switch_dark_open_message">%1$s Wird eingestellt</string>
+	<string name="theme_switch_dark_close_message">%1$s Wird eingestellt</string>
 	<string name="theme_dark_open_result_failed">Anwenden von %1$s fehlgeschlagen</string>
 	<string name="theme_dark_close_result_failed">Anwenden von %1$s fehlgeschlagen</string>
 	<string name="font_style_activity_title">Schriftstil</string>
@@ -50,11 +50,13 @@
 	<string name="title_select_font_file">Bitte Schriftart-Datei wählen</string>
 	<string name="title_create_font_name">Name der neuen Schriftart</string>
 	<string name="hint_create_font_name">Schriftart-Name muss kürzer als 10 Zeichen sein</string>
-	<string name="switch_skin_app_label">Skin anwenden</string>
+	<string name="switch_skin_app_label">Skin Auswahl</string>
 	<string name="switch_skin_style_label">OK</string>
 	<string name="switch_skin_tips">Wechseln des Skins ändert die Hinterundfarbe des Systems und z.B. bei Einstellungen, Kontakte, SMS, etc</string>
 	<string name="switch_skin_result_success">Skin erfolgreich angewendet</string>
 	<string name="switch_skin_result_fail">Skin-Anwendung fehlgeschlagen</string>
 	<string name="switch_skin_enter">Enter_switch_skin_setting</string>
 	<string name="switch_skin_done">Switch_skin_style_done</string>
+    <string name="reset_theme_dialog_title">Wird zurückgesetzt...</string>
+    <string name="reset_theme_reboot">Abgeschlossen! Starte neu...</string>	
 </resources>

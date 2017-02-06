@@ -540,7 +540,7 @@ Grund: \"%s\"."</string>
   <string name="call_end_mark_courier">Essenslieferung</string>
   <string name="call_end_mark_unmark">Markierung entfernen</string>
   <string name="recorder_file_name">%1$s_Anruf_%2$s</string>
-  <string name="recorder_file_name_date">MM-dd_HHmm</string>
+  <string name="recorder_file_name_date">dd-MM_HHmm</string>
   <string name="call_button_wait_record">Wartende Anrufaufzeichnung</string>
   <string name="phone_recorder_path_null">Speicherort für Anrufaufzeichnung nicht verfügbar</string>
   <string name="phone_recorder_mediarecorder_ioexception">Speicherort für Anrufaufzeichnung fehlerhaft</string>

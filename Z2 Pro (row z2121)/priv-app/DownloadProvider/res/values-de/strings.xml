@@ -36,8 +36,8 @@ Tippen Sie auf %s und der Download startet bei der nächsten WLAN-Einwahl."</str
 	<string name="root_downloads">Downloads</string>
 	<string name="download_queued">In der Warteschlange</string>
 	<string name="download_running">In Bearbeitung</string>
-	<string name="download_error">Nicht erfolgreich</string>
+	<string name="download_error">Fehlgeschlagen</string>
     <string name="download_running_percent">Wird heruntergeladen: %s</string>
-	<string name="notification_open_download_list">Zum Download klicken</string>
-	<string name="notification_open_download_complete">Der Download ist abgeschlossen.</string>
+	<string name="notification_open_download_list">Download anzeigen</string>
+	<string name="notification_open_download_complete">Download abgeschlossen.</string>
 </resources>
